@@ -53,6 +53,7 @@ class Player(object):
             
             
 def load_games():
+    """Returns a list of Game objects imported from the JSON datafile."""
     result = load_json(GAMES_FILENAME)
     games = []
     for game in result:
@@ -63,6 +64,9 @@ def load_games():
     return games
     
 def load_json(filename):
+    """Opens a JSON file, converts to native types, and returns
+    its contents.
+    """
     f = open(filename, "r")
     result = ""
     for line in f:
@@ -70,11 +74,16 @@ def load_json(filename):
     return json.loads(result)
         
 def clean_game_name(name):
+    """Removes any parenthesis from the team name and returns result."""
     if ")" in name:
         name = name[name.index(")") + 2:]
     return name
 
 def load_players(games):
+    """Creates a list of players based on the list of games provided.  Also
+    uses elo_rank and Player.process_game to generate rankings data.
+    """
+    
     # format: {"Name":Player()}
     players = {}
     
@@ -94,14 +103,18 @@ def load_players(games):
     return players
 
 def elo_rank(players, winner, loser):
-    # elo ranking calculation taken from:
-    # https://goo.gl/4hjgAA
+    """Calculates the elo rating of the winner and loser of a game based on
+    their past elo ratings.
+    """
+    # elo ranking calculation taken from https://goo.gl/4hjgAA
     try:
+        # works when winner and loser exist in the 'players' list
         r1 = players[winner].rating
         r2 = players[loser].rating
     except KeyError:
         return
     
+    # see above link for explanation to these calculations
     r1_t = 10.0 ** (r1 / 400.0)
     r2_t = 10.0 ** (r2 / 400.0)
     
@@ -118,7 +131,13 @@ def elo_rank(players, winner, loser):
     players[loser].rating = r2
 
 def find_next_best(current, players, before=[]):
+    """Recursively finds and returns a player that is better than any other
+    players in the data set.  If caught in a cycle of several teams, returns
+    the list of teams.
+    """
+    
     if current in before:
+        # order by elo rating so players with higher rating are ranked better
         return sorted(
             before[before.index(current):],
             key=lambda x: x.rating,
@@ -127,6 +146,7 @@ def find_next_best(current, players, before=[]):
     else:
         before.append(current)
         
+    # find the list of worse_than players that haven't been ranked yet
     w_len = 0
     w_exist = []
     for team in current.worse_than:
@@ -135,13 +155,17 @@ def find_next_best(current, players, before=[]):
             w_exist.append(team)
             
     if w_len == 0:
+        # return the current player if worse than no one
         return current
     else:
+        # goes to a player that is better if worse than >=1 players
         return find_next_best(players[w_exist[0]], players, before=before)
     
 
 
 def main():
+    """Creates a list of ranked players using find_next_best."""
+    
     games = load_games()
     players = load_players(games)
     
