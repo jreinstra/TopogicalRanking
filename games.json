@@ -1,0 +1,5693 @@
+[
+  {
+    "Rk":1,
+    "Winner":"(22) Arizona",
+    "WinnerPoints":42,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":32
+  },
+  {
+    "Rk":2,
+    "Winner":"Ball State",
+    "WinnerPoints":48,
+    "Loser":"Virginia Military Institute",
+    "LoserPoints":36
+  },
+  {
+    "Rk":3,
+    "Winner":"Connecticut",
+    "WinnerPoints":20,
+    "Loser":"Villanova",
+    "LoserPoints":15
+  },
+  {
+    "Rk":4,
+    "Winner":"Duke",
+    "WinnerPoints":37,
+    "Loser":"Tulane",
+    "LoserPoints":7
+  },
+  {
+    "Rk":5,
+    "Winner":"Florida International",
+    "WinnerPoints":15,
+    "Loser":"Central Florida",
+    "LoserPoints":14
+  },
+  {
+    "Rk":6,
+    "Winner":"Fresno State",
+    "WinnerPoints":34,
+    "Loser":"Abilene Christian",
+    "LoserPoints":13
+  },
+  {
+    "Rk":7,
+    "Winner":"(16) Georgia Tech",
+    "WinnerPoints":69,
+    "Loser":"Alcorn State",
+    "LoserPoints":6
+  },
+  {
+    "Rk":8,
+    "Winner":"Hawaii",
+    "WinnerPoints":28,
+    "Loser":"Colorado",
+    "LoserPoints":20
+  },
+  {
+    "Rk":9,
+    "Winner":"Nevada",
+    "WinnerPoints":31,
+    "Loser":"California-Davis",
+    "LoserPoints":17
+  },
+  {
+    "Rk":10,
+    "Winner":"Ohio",
+    "WinnerPoints":45,
+    "Loser":"Idaho",
+    "LoserPoints":28
+  },
+  {
+    "Rk":11,
+    "Winner":"Oklahoma State",
+    "WinnerPoints":24,
+    "Loser":"Central Michigan",
+    "LoserPoints":13
+  },
+  {
+    "Rk":12,
+    "Winner":"San Jose State",
+    "WinnerPoints":43,
+    "Loser":"New Hampshire",
+    "LoserPoints":13
+  },
+  {
+    "Rk":13,
+    "Winner":"South Carolina",
+    "WinnerPoints":17,
+    "Loser":"North Carolina",
+    "LoserPoints":13
+  },
+  {
+    "Rk":14,
+    "Winner":"(2) Texas Christian",
+    "WinnerPoints":23,
+    "Loser":"Minnesota",
+    "LoserPoints":17
+  },
+  {
+    "Rk":15,
+    "Winner":"Utah",
+    "WinnerPoints":24,
+    "Loser":"Michigan",
+    "LoserPoints":17
+  },
+  {
+    "Rk":16,
+    "Winner":"Utah State",
+    "WinnerPoints":12,
+    "Loser":"Southern Utah",
+    "LoserPoints":9
+  },
+  {
+    "Rk":17,
+    "Winner":"Wake Forest",
+    "WinnerPoints":41,
+    "Loser":"Elon",
+    "LoserPoints":3
+  },
+  {
+    "Rk":18,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":14,
+    "Loser":"Vanderbilt",
+    "LoserPoints":12
+  },
+  {
+    "Rk":19,
+    "Winner":"(4) Baylor",
+    "WinnerPoints":56,
+    "Loser":"Southern Methodist",
+    "LoserPoints":21
+  },
+  {
+    "Rk":20,
+    "Winner":"(23) Boise State",
+    "WinnerPoints":16,
+    "Loser":"Washington",
+    "LoserPoints":13
+  },
+  {
+    "Rk":21,
+    "Winner":"Charlotte",
+    "WinnerPoints":23,
+    "Loser":"Georgia State",
+    "LoserPoints":20
+  },
+  {
+    "Rk":22,
+    "Winner":"Fordham",
+    "WinnerPoints":37,
+    "Loser":"Army",
+    "LoserPoints":35
+  },
+  {
+    "Rk":23,
+    "Winner":"(5) Michigan State",
+    "WinnerPoints":37,
+    "Loser":"Western Michigan",
+    "LoserPoints":24
+  },
+  {
+    "Rk":24,
+    "Winner":"Oregon State",
+    "WinnerPoints":26,
+    "Loser":"Weber State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":25,
+    "Winner":"Syracuse",
+    "WinnerPoints":47,
+    "Loser":"Rhode Island",
+    "LoserPoints":0
+  },
+  {
+    "Rk":26,
+    "Winner":"Air Force",
+    "WinnerPoints":63,
+    "Loser":"Morgan State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":27,
+    "Winner":"(3) Alabama",
+    "WinnerPoints":35,
+    "Loser":"(20) Wisconsin",
+    "LoserPoints":17
+  },
+  {
+    "Rk":28,
+    "Winner":"Appalachian State",
+    "WinnerPoints":49,
+    "Loser":"Howard",
+    "LoserPoints":0
+  },
+  {
+    "Rk":29,
+    "Winner":"(18) Arkansas",
+    "WinnerPoints":48,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":13
+  },
+  {
+    "Rk":30,
+    "Winner":"(6) Auburn",
+    "WinnerPoints":31,
+    "Loser":"Louisville",
+    "LoserPoints":24
+  },
+  {
+    "Rk":31,
+    "Winner":"Boston College",
+    "WinnerPoints":24,
+    "Loser":"Maine",
+    "LoserPoints":3
+  },
+  {
+    "Rk":32,
+    "Winner":"Brigham Young",
+    "WinnerPoints":33,
+    "Loser":"Nebraska",
+    "LoserPoints":28
+  },
+  {
+    "Rk":33,
+    "Winner":"Buffalo",
+    "WinnerPoints":51,
+    "Loser":"Albany",
+    "LoserPoints":14
+  },
+  {
+    "Rk":34,
+    "Winner":"California",
+    "WinnerPoints":73,
+    "Loser":"Grambling State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":35,
+    "Winner":"Cincinnati",
+    "WinnerPoints":52,
+    "Loser":"Alabama A&M",
+    "LoserPoints":10
+  },
+  {
+    "Rk":36,
+    "Winner":"(12) Clemson",
+    "WinnerPoints":49,
+    "Loser":"Wofford",
+    "LoserPoints":10
+  },
+  {
+    "Rk":37,
+    "Winner":"Colorado State",
+    "WinnerPoints":65,
+    "Loser":"Savannah State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":38,
+    "Winner":"East Carolina",
+    "WinnerPoints":28,
+    "Loser":"Towson",
+    "LoserPoints":20
+  },
+  {
+    "Rk":39,
+    "Winner":"Florida",
+    "WinnerPoints":61,
+    "Loser":"New Mexico State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":40,
+    "Winner":"(10) Florida State",
+    "WinnerPoints":59,
+    "Loser":"Texas State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":41,
+    "Winner":"(9) Georgia",
+    "WinnerPoints":51,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":14
+  },
+  {
+    "Rk":42,
+    "Winner":"Houston",
+    "WinnerPoints":52,
+    "Loser":"Tennessee Tech",
+    "LoserPoints":24
+  },
+  {
+    "Rk":43,
+    "Winner":"Illinois",
+    "WinnerPoints":52,
+    "Loser":"Kent State",
+    "LoserPoints":3
+  },
+  {
+    "Rk":44,
+    "Winner":"Indiana",
+    "WinnerPoints":48,
+    "Loser":"Southern Illinois",
+    "LoserPoints":47
+  },
+  {
+    "Rk":45,
+    "Winner":"Iowa",
+    "WinnerPoints":31,
+    "Loser":"Illinois State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":46,
+    "Winner":"Iowa State",
+    "WinnerPoints":31,
+    "Loser":"Northern Iowa",
+    "LoserPoints":7
+  },
+  {
+    "Rk":47,
+    "Winner":"Kansas State",
+    "WinnerPoints":34,
+    "Loser":"South Dakota",
+    "LoserPoints":0
+  },
+  {
+    "Rk":48,
+    "Winner":"Kentucky",
+    "WinnerPoints":40,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":33
+  },
+  {
+    "Rk":49,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":62,
+    "Loser":"Southern",
+    "LoserPoints":15
+  },
+  {
+    "Rk":50,
+    "Winner":"Maryland",
+    "WinnerPoints":50,
+    "Loser":"Richmond",
+    "LoserPoints":21
+  },
+  {
+    "Rk":52,
+    "Winner":"Memphis",
+    "WinnerPoints":63,
+    "Loser":"Missouri State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":53,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":45,
+    "Loser":"Bethune-Cookman",
+    "LoserPoints":0
+  },
+  {
+    "Rk":54,
+    "Winner":"Miami (OH)",
+    "WinnerPoints":26,
+    "Loser":"Presbyterian",
+    "LoserPoints":7
+  },
+  {
+    "Rk":55,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":70,
+    "Loser":"Jackson State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":56,
+    "Winner":"(17) Mississippi",
+    "WinnerPoints":76,
+    "Loser":"Tennessee-Martin",
+    "LoserPoints":3
+  },
+  {
+    "Rk":57,
+    "Winner":"Mississippi State",
+    "WinnerPoints":34,
+    "Loser":"Southern Mississippi",
+    "LoserPoints":16
+  },
+  {
+    "Rk":58,
+    "Winner":"(24) Missouri",
+    "WinnerPoints":34,
+    "Loser":"Southeast Missouri State",
+    "LoserPoints":3
+  },
+  {
+    "Rk":59,
+    "Winner":"Navy",
+    "WinnerPoints":48,
+    "Loser":"Colgate",
+    "LoserPoints":10
+  },
+  {
+    "Rk":60,
+    "Winner":"New Mexico",
+    "WinnerPoints":66,
+    "Loser":"Mississippi Valley State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":61,
+    "Winner":"North Carolina State",
+    "WinnerPoints":49,
+    "Loser":"Troy",
+    "LoserPoints":21
+  },
+  {
+    "Rk":62,
+    "Winner":"North Dakota",
+    "WinnerPoints":24,
+    "Loser":"Wyoming",
+    "LoserPoints":13
+  },
+  {
+    "Rk":63,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":38,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":30
+  },
+  {
+    "Rk":64,
+    "Winner":"Northwestern",
+    "WinnerPoints":16,
+    "Loser":"(21) Stanford",
+    "LoserPoints":6
+  },
+  {
+    "Rk":65,
+    "Winner":"(11) Notre Dame",
+    "WinnerPoints":38,
+    "Loser":"Texas",
+    "LoserPoints":3
+  },
+  {
+    "Rk":66,
+    "Winner":"(19) Oklahoma",
+    "WinnerPoints":41,
+    "Loser":"Akron",
+    "LoserPoints":3
+  },
+  {
+    "Rk":67,
+    "Winner":"Old Dominion",
+    "WinnerPoints":38,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":34
+  },
+  {
+    "Rk":68,
+    "Winner":"(7) Oregon",
+    "WinnerPoints":61,
+    "Loser":"Eastern Washington",
+    "LoserPoints":42
+  },
+  {
+    "Rk":69,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":45,
+    "Loser":"Youngstown State",
+    "LoserPoints":37
+  },
+  {
+    "Rk":70,
+    "Winner":"Portland State",
+    "WinnerPoints":24,
+    "Loser":"Washington State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":71,
+    "Winner":"Rice",
+    "WinnerPoints":56,
+    "Loser":"Wagner",
+    "LoserPoints":16
+  },
+  {
+    "Rk":72,
+    "Winner":"Rutgers",
+    "WinnerPoints":63,
+    "Loser":"Norfolk State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":73,
+    "Winner":"San Diego State",
+    "WinnerPoints":37,
+    "Loser":"San Diego",
+    "LoserPoints":3
+  },
+  {
+    "Rk":74,
+    "Winner":"South Alabama",
+    "WinnerPoints":33,
+    "Loser":"Gardner-Webb",
+    "LoserPoints":23
+  },
+  {
+    "Rk":75,
+    "Winner":"South Dakota State",
+    "WinnerPoints":41,
+    "Loser":"Kansas",
+    "LoserPoints":38
+  },
+  {
+    "Rk":76,
+    "Winner":"South Florida",
+    "WinnerPoints":51,
+    "Loser":"Florida A&M",
+    "LoserPoints":3
+  },
+  {
+    "Rk":77,
+    "Winner":"(8) Southern California",
+    "WinnerPoints":55,
+    "Loser":"Arkansas State",
+    "LoserPoints":6
+  },
+  {
+    "Rk":78,
+    "Winner":"Temple",
+    "WinnerPoints":27,
+    "Loser":"Penn State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":79,
+    "Winner":"(25) Tennessee",
+    "WinnerPoints":59,
+    "Loser":"Bowling Green State",
+    "LoserPoints":30
+  },
+  {
+    "Rk":80,
+    "Winner":"Texas A&M",
+    "WinnerPoints":38,
+    "Loser":"(15) Arizona State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":81,
+    "Winner":"Texas Tech",
+    "WinnerPoints":59,
+    "Loser":"Sam Houston State",
+    "LoserPoints":45
+  },
+  {
+    "Rk":82,
+    "Winner":"Tulsa",
+    "WinnerPoints":47,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":44
+  },
+  {
+    "Rk":83,
+    "Winner":"(13) UCLA",
+    "WinnerPoints":34,
+    "Loser":"Virginia",
+    "LoserPoints":16
+  },
+  {
+    "Rk":84,
+    "Winner":"West Virginia",
+    "WinnerPoints":44,
+    "Loser":"Georgia Southern",
+    "LoserPoints":0
+  },
+  {
+    "Rk":85,
+    "Winner":"Marshall",
+    "WinnerPoints":41,
+    "Loser":"Purdue",
+    "LoserPoints":31
+  },
+  {
+    "Rk":86,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":42,
+    "Loser":"Virginia Tech",
+    "LoserPoints":24
+  },
+  {
+    "Rk":87,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":41,
+    "Loser":"Louisiana Tech",
+    "LoserPoints":38
+  },
+  {
+    "Rk":88,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":44,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":20
+  },
+  {
+    "Rk":89,
+    "Winner":"(24) Utah",
+    "WinnerPoints":24,
+    "Loser":"Utah State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":90,
+    "Winner":"Air Force",
+    "WinnerPoints":37,
+    "Loser":"San Jose State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":91,
+    "Winner":"(2) Alabama",
+    "WinnerPoints":37,
+    "Loser":"Middle Tennessee State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":92,
+    "Winner":"(22) Arizona",
+    "WinnerPoints":44,
+    "Loser":"Nevada",
+    "LoserPoints":20
+  },
+  {
+    "Rk":93,
+    "Winner":"Arizona State",
+    "WinnerPoints":35,
+    "Loser":"Cal Poly",
+    "LoserPoints":21
+  },
+  {
+    "Rk":94,
+    "Winner":"(6) Auburn",
+    "WinnerPoints":27,
+    "Loser":"Jacksonville State",
+    "LoserPoints":20
+  },
+  {
+    "Rk":95,
+    "Winner":"(4) Baylor",
+    "WinnerPoints":66,
+    "Loser":"Lamar",
+    "LoserPoints":31
+  },
+  {
+    "Rk":96,
+    "Winner":"Boston College",
+    "WinnerPoints":76,
+    "Loser":"Howard",
+    "LoserPoints":0
+  },
+  {
+    "Rk":97,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":48,
+    "Loser":"Maryland",
+    "LoserPoints":27
+  },
+  {
+    "Rk":98,
+    "Winner":"Brigham Young",
+    "WinnerPoints":35,
+    "Loser":"(20) Boise State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":99,
+    "Winner":"California",
+    "WinnerPoints":35,
+    "Loser":"San Diego State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":100,
+    "Winner":"Central Michigan",
+    "WinnerPoints":31,
+    "Loser":"Monmouth",
+    "LoserPoints":10
+  },
+  {
+    "Rk":101,
+    "Winner":"Charlotte",
+    "WinnerPoints":34,
+    "Loser":"Presbyterian",
+    "LoserPoints":10
+  },
+  {
+    "Rk":102,
+    "Winner":"(12) Clemson",
+    "WinnerPoints":41,
+    "Loser":"Appalachian State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":103,
+    "Winner":"Colorado",
+    "WinnerPoints":48,
+    "Loser":"Massachusetts",
+    "LoserPoints":14
+  },
+  {
+    "Rk":104,
+    "Winner":"Connecticut",
+    "WinnerPoints":22,
+    "Loser":"Army",
+    "LoserPoints":17
+  },
+  {
+    "Rk":105,
+    "Winner":"Duke",
+    "WinnerPoints":55,
+    "Loser":"North Carolina Central",
+    "LoserPoints":0
+  },
+  {
+    "Rk":106,
+    "Winner":"Eastern Michigan",
+    "WinnerPoints":48,
+    "Loser":"Wyoming",
+    "LoserPoints":29
+  },
+  {
+    "Rk":107,
+    "Winner":"Florida",
+    "WinnerPoints":31,
+    "Loser":"East Carolina",
+    "LoserPoints":24
+  },
+  {
+    "Rk":108,
+    "Winner":"(11) Florida State",
+    "WinnerPoints":34,
+    "Loser":"South Florida",
+    "LoserPoints":14
+  },
+  {
+    "Rk":109,
+    "Winner":"(10) Georgia",
+    "WinnerPoints":31,
+    "Loser":"Vanderbilt",
+    "LoserPoints":14
+  },
+  {
+    "Rk":110,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":43,
+    "Loser":"Western Michigan",
+    "LoserPoints":17
+  },
+  {
+    "Rk":111,
+    "Winner":"Georgia State",
+    "WinnerPoints":34,
+    "Loser":"New Mexico State",
+    "LoserPoints":32
+  },
+  {
+    "Rk":112,
+    "Winner":"(15) Georgia Tech",
+    "WinnerPoints":65,
+    "Loser":"Tulane",
+    "LoserPoints":10
+  },
+  {
+    "Rk":113,
+    "Winner":"Houston",
+    "WinnerPoints":34,
+    "Loser":"Louisville",
+    "LoserPoints":31
+  },
+  {
+    "Rk":114,
+    "Winner":"Illinois",
+    "WinnerPoints":44,
+    "Loser":"Western Illinois",
+    "LoserPoints":0
+  },
+  {
+    "Rk":115,
+    "Winner":"Indiana",
+    "WinnerPoints":36,
+    "Loser":"Florida International",
+    "LoserPoints":22
+  },
+  {
+    "Rk":116,
+    "Winner":"Iowa",
+    "WinnerPoints":31,
+    "Loser":"Iowa State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":117,
+    "Winner":"Kansas State",
+    "WinnerPoints":30,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":3
+  },
+  {
+    "Rk":118,
+    "Winner":"Kent State",
+    "WinnerPoints":45,
+    "Loser":"Delaware State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":119,
+    "Winner":"Kentucky",
+    "WinnerPoints":26,
+    "Loser":"South Carolina",
+    "LoserPoints":22
+  },
+  {
+    "Rk":120,
+    "Winner":"(14) Louisiana State",
+    "WinnerPoints":21,
+    "Loser":"(25) Mississippi State",
+    "LoserPoints":19
+  },
+  {
+    "Rk":121,
+    "Winner":"Louisiana-Lafayette",
+    "WinnerPoints":44,
+    "Loser":"Northwestern State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":122,
+    "Winner":"Louisiana-Monroe",
+    "WinnerPoints":47,
+    "Loser":"Nicholls State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":123,
+    "Winner":"Memphis",
+    "WinnerPoints":55,
+    "Loser":"Kansas",
+    "LoserPoints":23
+  },
+  {
+    "Rk":124,
+    "Winner":"Michigan",
+    "WinnerPoints":35,
+    "Loser":"Oregon State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":125,
+    "Winner":"(5) Michigan State",
+    "WinnerPoints":31,
+    "Loser":"(7) Oregon",
+    "LoserPoints":28
+  },
+  {
+    "Rk":126,
+    "Winner":"Minnesota",
+    "WinnerPoints":23,
+    "Loser":"Colorado State",
+    "LoserPoints":20
+  },
+  {
+    "Rk":127,
+    "Winner":"(17) Mississippi",
+    "WinnerPoints":73,
+    "Loser":"Fresno State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":128,
+    "Winner":"(21) Missouri",
+    "WinnerPoints":27,
+    "Loser":"Arkansas State",
+    "LoserPoints":20
+  },
+  {
+    "Rk":129,
+    "Winner":"Nebraska",
+    "WinnerPoints":48,
+    "Loser":"South Alabama",
+    "LoserPoints":9
+  },
+  {
+    "Rk":130,
+    "Winner":"North Carolina",
+    "WinnerPoints":53,
+    "Loser":"North Carolina A&T",
+    "LoserPoints":14
+  },
+  {
+    "Rk":131,
+    "Winner":"North Carolina State",
+    "WinnerPoints":35,
+    "Loser":"Eastern Kentucky",
+    "LoserPoints":0
+  },
+  {
+    "Rk":132,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":57,
+    "Loser":"Murray State",
+    "LoserPoints":26
+  },
+  {
+    "Rk":133,
+    "Winner":"Northwestern",
+    "WinnerPoints":41,
+    "Loser":"Eastern Illinois",
+    "LoserPoints":0
+  },
+  {
+    "Rk":134,
+    "Winner":"(9) Notre Dame",
+    "WinnerPoints":34,
+    "Loser":"Virginia",
+    "LoserPoints":27
+  },
+  {
+    "Rk":135,
+    "Winner":"Ohio",
+    "WinnerPoints":21,
+    "Loser":"Marshall",
+    "LoserPoints":10
+  },
+  {
+    "Rk":136,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":38,
+    "Loser":"Hawaii",
+    "LoserPoints":0
+  },
+  {
+    "Rk":137,
+    "Winner":"(19) Oklahoma",
+    "WinnerPoints":31,
+    "Loser":"(23) Tennessee",
+    "LoserPoints":24
+  },
+  {
+    "Rk":138,
+    "Winner":"Oklahoma State",
+    "WinnerPoints":32,
+    "Loser":"Central Arkansas",
+    "LoserPoints":8
+  },
+  {
+    "Rk":139,
+    "Winner":"Old Dominion",
+    "WinnerPoints":24,
+    "Loser":"Norfolk State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":140,
+    "Winner":"Penn State",
+    "WinnerPoints":27,
+    "Loser":"Buffalo",
+    "LoserPoints":14
+  },
+  {
+    "Rk":141,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":24,
+    "Loser":"Akron",
+    "LoserPoints":7
+  },
+  {
+    "Rk":142,
+    "Winner":"Purdue",
+    "WinnerPoints":38,
+    "Loser":"Indiana State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":143,
+    "Winner":"(8) Southern California",
+    "WinnerPoints":59,
+    "Loser":"Idaho",
+    "LoserPoints":9
+  },
+  {
+    "Rk":144,
+    "Winner":"Southern Methodist",
+    "WinnerPoints":31,
+    "Loser":"North Texas",
+    "LoserPoints":13
+  },
+  {
+    "Rk":145,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":52,
+    "Loser":"Austin Peay",
+    "LoserPoints":6
+  },
+  {
+    "Rk":146,
+    "Winner":"Stanford",
+    "WinnerPoints":31,
+    "Loser":"Central Florida",
+    "LoserPoints":7
+  },
+  {
+    "Rk":147,
+    "Winner":"Syracuse",
+    "WinnerPoints":30,
+    "Loser":"Wake Forest",
+    "LoserPoints":17
+  },
+  {
+    "Rk":148,
+    "Winner":"Temple",
+    "WinnerPoints":34,
+    "Loser":"Cincinnati",
+    "LoserPoints":26
+  },
+  {
+    "Rk":149,
+    "Winner":"Texas",
+    "WinnerPoints":42,
+    "Loser":"Rice",
+    "LoserPoints":28
+  },
+  {
+    "Rk":150,
+    "Winner":"(16) Texas A&M",
+    "WinnerPoints":56,
+    "Loser":"Ball State",
+    "LoserPoints":23
+  },
+  {
+    "Rk":151,
+    "Winner":"(3) Texas Christian",
+    "WinnerPoints":70,
+    "Loser":"Stephen F. Austin",
+    "LoserPoints":7
+  },
+  {
+    "Rk":152,
+    "Winner":"Texas State",
+    "WinnerPoints":63,
+    "Loser":"Prairie View A&M",
+    "LoserPoints":24
+  },
+  {
+    "Rk":153,
+    "Winner":"Texas Tech",
+    "WinnerPoints":69,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":20
+  },
+  {
+    "Rk":154,
+    "Winner":"Toledo",
+    "WinnerPoints":16,
+    "Loser":"(18) Arkansas",
+    "LoserPoints":12
+  },
+  {
+    "Rk":155,
+    "Winner":"Troy",
+    "WinnerPoints":44,
+    "Loser":"Charleston Southern",
+    "LoserPoints":16
+  },
+  {
+    "Rk":156,
+    "Winner":"Tulsa",
+    "WinnerPoints":40,
+    "Loser":"New Mexico",
+    "LoserPoints":21
+  },
+  {
+    "Rk":157,
+    "Winner":"(13) UCLA",
+    "WinnerPoints":37,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":3
+  },
+  {
+    "Rk":158,
+    "Winner":"Virginia Tech",
+    "WinnerPoints":42,
+    "Loser":"Furman",
+    "LoserPoints":3
+  },
+  {
+    "Rk":159,
+    "Winner":"Washington",
+    "WinnerPoints":49,
+    "Loser":"Sacramento State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":160,
+    "Winner":"Washington State",
+    "WinnerPoints":37,
+    "Loser":"Rutgers",
+    "LoserPoints":34
+  },
+  {
+    "Rk":161,
+    "Winner":"West Virginia",
+    "WinnerPoints":41,
+    "Loser":"Liberty",
+    "LoserPoints":17
+  },
+  {
+    "Rk":162,
+    "Winner":"Wisconsin",
+    "WinnerPoints":58,
+    "Loser":"Miami (OH)",
+    "LoserPoints":0
+  },
+  {
+    "Rk":163,
+    "Winner":"(11) Clemson",
+    "WinnerPoints":20,
+    "Loser":"Louisville",
+    "LoserPoints":17
+  },
+  {
+    "Rk":164,
+    "Winner":"Arizona State",
+    "WinnerPoints":34,
+    "Loser":"New Mexico",
+    "LoserPoints":10
+  },
+  {
+    "Rk":165,
+    "Winner":"Boise State",
+    "WinnerPoints":52,
+    "Loser":"Idaho State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":166,
+    "Winner":"(9) Florida State",
+    "WinnerPoints":14,
+    "Loser":"Boston College",
+    "LoserPoints":0
+  },
+  {
+    "Rk":167,
+    "Winner":"Akron",
+    "WinnerPoints":52,
+    "Loser":"Savannah State",
+    "LoserPoints":9
+  },
+  {
+    "Rk":168,
+    "Winner":"(20) Arizona",
+    "WinnerPoints":77,
+    "Loser":"Northern Arizona",
+    "LoserPoints":13
+  },
+  {
+    "Rk":169,
+    "Winner":"Arkansas State",
+    "WinnerPoints":70,
+    "Loser":"Missouri State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":170,
+    "Winner":"Ball State",
+    "WinnerPoints":28,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":17
+  },
+  {
+    "Rk":171,
+    "Winner":"Buffalo",
+    "WinnerPoints":33,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":15
+  },
+  {
+    "Rk":172,
+    "Winner":"California",
+    "WinnerPoints":45,
+    "Loser":"Texas",
+    "LoserPoints":44
+  },
+  {
+    "Rk":173,
+    "Winner":"Cincinnati",
+    "WinnerPoints":37,
+    "Loser":"Miami (OH)",
+    "LoserPoints":33
+  },
+  {
+    "Rk":174,
+    "Winner":"Colorado",
+    "WinnerPoints":27,
+    "Loser":"Colorado State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":175,
+    "Winner":"Florida",
+    "WinnerPoints":14,
+    "Loser":"Kentucky",
+    "LoserPoints":9
+  },
+  {
+    "Rk":176,
+    "Winner":"Florida International",
+    "WinnerPoints":39,
+    "Loser":"North Carolina Central",
+    "LoserPoints":14
+  },
+  {
+    "Rk":177,
+    "Winner":"Furman",
+    "WinnerPoints":16,
+    "Loser":"Central Florida",
+    "LoserPoints":15
+  },
+  {
+    "Rk":178,
+    "Winner":"(7) Georgia",
+    "WinnerPoints":52,
+    "Loser":"South Carolina",
+    "LoserPoints":20
+  },
+  {
+    "Rk":179,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":48,
+    "Loser":"Citadel",
+    "LoserPoints":13
+  },
+  {
+    "Rk":180,
+    "Winner":"Hawaii",
+    "WinnerPoints":47,
+    "Loser":"California-Davis",
+    "LoserPoints":27
+  },
+  {
+    "Rk":181,
+    "Winner":"Idaho",
+    "WinnerPoints":41,
+    "Loser":"Wofford",
+    "LoserPoints":38
+  },
+  {
+    "Rk":182,
+    "Winner":"Indiana",
+    "WinnerPoints":38,
+    "Loser":"Western Kentucky",
+    "LoserPoints":35
+  },
+  {
+    "Rk":183,
+    "Winner":"Iowa",
+    "WinnerPoints":27,
+    "Loser":"Pittsburgh",
+    "LoserPoints":24
+  },
+  {
+    "Rk":184,
+    "Winner":"Kansas State",
+    "WinnerPoints":39,
+    "Loser":"Louisiana Tech",
+    "LoserPoints":33
+  },
+  {
+    "Rk":185,
+    "Winner":"(13) Louisiana State",
+    "WinnerPoints":45,
+    "Loser":"(18) Auburn",
+    "LoserPoints":21
+  },
+  {
+    "Rk":186,
+    "Winner":"Marshall",
+    "WinnerPoints":45,
+    "Loser":"Norfolk State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":187,
+    "Winner":"Maryland",
+    "WinnerPoints":35,
+    "Loser":"South Florida",
+    "LoserPoints":17
+  },
+  {
+    "Rk":188,
+    "Winner":"Memphis",
+    "WinnerPoints":44,
+    "Loser":"Bowling Green State",
+    "LoserPoints":41
+  },
+  {
+    "Rk":189,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":36,
+    "Loser":"Nebraska",
+    "LoserPoints":33
+  },
+  {
+    "Rk":190,
+    "Winner":"Michigan",
+    "WinnerPoints":28,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":7
+  },
+  {
+    "Rk":191,
+    "Winner":"(4) Michigan State",
+    "WinnerPoints":35,
+    "Loser":"Air Force",
+    "LoserPoints":21
+  },
+  {
+    "Rk":192,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":73,
+    "Loser":"Charlotte",
+    "LoserPoints":14
+  },
+  {
+    "Rk":193,
+    "Winner":"Minnesota",
+    "WinnerPoints":10,
+    "Loser":"Kent State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":194,
+    "Winner":"(15) Mississippi",
+    "WinnerPoints":43,
+    "Loser":"(2) Alabama",
+    "LoserPoints":37
+  },
+  {
+    "Rk":195,
+    "Winner":"Mississippi State",
+    "WinnerPoints":62,
+    "Loser":"Northwestern State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":196,
+    "Winner":"(22) Missouri",
+    "WinnerPoints":9,
+    "Loser":"Connecticut",
+    "LoserPoints":6
+  },
+  {
+    "Rk":197,
+    "Winner":"Navy",
+    "WinnerPoints":45,
+    "Loser":"East Carolina",
+    "LoserPoints":21
+  },
+  {
+    "Rk":198,
+    "Winner":"North Carolina",
+    "WinnerPoints":48,
+    "Loser":"Illinois",
+    "LoserPoints":14
+  },
+  {
+    "Rk":199,
+    "Winner":"North Carolina State",
+    "WinnerPoints":38,
+    "Loser":"Old Dominion",
+    "LoserPoints":14
+  },
+  {
+    "Rk":200,
+    "Winner":"(23) Northwestern",
+    "WinnerPoints":19,
+    "Loser":"Duke",
+    "LoserPoints":10
+  },
+  {
+    "Rk":201,
+    "Winner":"(8) Notre Dame",
+    "WinnerPoints":30,
+    "Loser":"(14) Georgia Tech",
+    "LoserPoints":22
+  },
+  {
+    "Rk":202,
+    "Winner":"Ohio",
+    "WinnerPoints":35,
+    "Loser":"Southeastern Louisiana",
+    "LoserPoints":14
+  },
+  {
+    "Rk":203,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":20,
+    "Loser":"Northern Illinois",
+    "LoserPoints":13
+  },
+  {
+    "Rk":204,
+    "Winner":"(16) Oklahoma",
+    "WinnerPoints":52,
+    "Loser":"Tulsa",
+    "LoserPoints":38
+  },
+  {
+    "Rk":205,
+    "Winner":"(25) Oklahoma State",
+    "WinnerPoints":69,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":14
+  },
+  {
+    "Rk":206,
+    "Winner":"(12) Oregon",
+    "WinnerPoints":61,
+    "Loser":"Georgia State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":207,
+    "Winner":"Oregon State",
+    "WinnerPoints":35,
+    "Loser":"San Jose State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":208,
+    "Winner":"Penn State",
+    "WinnerPoints":28,
+    "Loser":"Rutgers",
+    "LoserPoints":3
+  },
+  {
+    "Rk":209,
+    "Winner":"Rice",
+    "WinnerPoints":38,
+    "Loser":"North Texas",
+    "LoserPoints":24
+  },
+  {
+    "Rk":210,
+    "Winner":"South Alabama",
+    "WinnerPoints":34,
+    "Loser":"San Diego State",
+    "LoserPoints":27
+  },
+  {
+    "Rk":211,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":56,
+    "Loser":"Texas State",
+    "LoserPoints":50
+  },
+  {
+    "Rk":212,
+    "Winner":"Stanford",
+    "WinnerPoints":41,
+    "Loser":"(6) Southern California",
+    "LoserPoints":31
+  },
+  {
+    "Rk":213,
+    "Winner":"Syracuse",
+    "WinnerPoints":30,
+    "Loser":"Central Michigan",
+    "LoserPoints":27
+  },
+  {
+    "Rk":214,
+    "Winner":"Temple",
+    "WinnerPoints":25,
+    "Loser":"Massachusetts",
+    "LoserPoints":23
+  },
+  {
+    "Rk":215,
+    "Winner":"Tennessee",
+    "WinnerPoints":55,
+    "Loser":"Western Carolina",
+    "LoserPoints":10
+  },
+  {
+    "Rk":216,
+    "Winner":"(17) Texas A&M",
+    "WinnerPoints":44,
+    "Loser":"Nevada",
+    "LoserPoints":27
+  },
+  {
+    "Rk":217,
+    "Winner":"(3) Texas Christian",
+    "WinnerPoints":56,
+    "Loser":"Southern Methodist",
+    "LoserPoints":37
+  },
+  {
+    "Rk":218,
+    "Winner":"Texas Tech",
+    "WinnerPoints":35,
+    "Loser":"Arkansas",
+    "LoserPoints":24
+  },
+  {
+    "Rk":219,
+    "Winner":"Texas-El Paso",
+    "WinnerPoints":50,
+    "Loser":"New Mexico State",
+    "LoserPoints":47
+  },
+  {
+    "Rk":220,
+    "Winner":"Toledo",
+    "WinnerPoints":30,
+    "Loser":"Iowa State",
+    "LoserPoints":23
+  },
+  {
+    "Rk":221,
+    "Winner":"Tulane",
+    "WinnerPoints":38,
+    "Loser":"Maine",
+    "LoserPoints":7
+  },
+  {
+    "Rk":222,
+    "Winner":"(10) UCLA",
+    "WinnerPoints":24,
+    "Loser":"(19) Brigham Young",
+    "LoserPoints":23
+  },
+  {
+    "Rk":223,
+    "Winner":"(21) Utah",
+    "WinnerPoints":45,
+    "Loser":"Fresno State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":224,
+    "Winner":"Vanderbilt",
+    "WinnerPoints":47,
+    "Loser":"Austin Peay",
+    "LoserPoints":7
+  },
+  {
+    "Rk":225,
+    "Winner":"Virginia",
+    "WinnerPoints":35,
+    "Loser":"William & Mary",
+    "LoserPoints":29
+  },
+  {
+    "Rk":226,
+    "Winner":"Virginia Tech",
+    "WinnerPoints":51,
+    "Loser":"Purdue",
+    "LoserPoints":24
+  },
+  {
+    "Rk":227,
+    "Winner":"Wake Forest",
+    "WinnerPoints":17,
+    "Loser":"Army",
+    "LoserPoints":14
+  },
+  {
+    "Rk":228,
+    "Winner":"Washington",
+    "WinnerPoints":31,
+    "Loser":"Utah State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":229,
+    "Winner":"Washington State",
+    "WinnerPoints":31,
+    "Loser":"Wyoming",
+    "LoserPoints":14
+  },
+  {
+    "Rk":230,
+    "Winner":"Western Michigan",
+    "WinnerPoints":52,
+    "Loser":"Murray State",
+    "LoserPoints":20
+  },
+  {
+    "Rk":231,
+    "Winner":"(24) Wisconsin",
+    "WinnerPoints":28,
+    "Loser":"Troy",
+    "LoserPoints":3
+  },
+  {
+    "Rk":232,
+    "Winner":"Memphis",
+    "WinnerPoints":53,
+    "Loser":"Cincinnati",
+    "LoserPoints":46
+  },
+  {
+    "Rk":233,
+    "Winner":"Boise State",
+    "WinnerPoints":56,
+    "Loser":"Virginia",
+    "LoserPoints":14
+  },
+  {
+    "Rk":234,
+    "Winner":"(21) Stanford",
+    "WinnerPoints":42,
+    "Loser":"Oregon State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":235,
+    "Winner":"Akron",
+    "WinnerPoints":35,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":14
+  },
+  {
+    "Rk":236,
+    "Winner":"(12) Alabama",
+    "WinnerPoints":34,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":0
+  },
+  {
+    "Rk":237,
+    "Winner":"Appalachian State",
+    "WinnerPoints":49,
+    "Loser":"Old Dominion",
+    "LoserPoints":0
+  },
+  {
+    "Rk":238,
+    "Winner":"Army",
+    "WinnerPoints":58,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":36
+  },
+  {
+    "Rk":239,
+    "Winner":"(5) Baylor",
+    "WinnerPoints":70,
+    "Loser":"Rice",
+    "LoserPoints":17
+  },
+  {
+    "Rk":240,
+    "Winner":"Boston College",
+    "WinnerPoints":17,
+    "Loser":"Northern Illinois",
+    "LoserPoints":14
+  },
+  {
+    "Rk":241,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":35,
+    "Loser":"Purdue",
+    "LoserPoints":28
+  },
+  {
+    "Rk":242,
+    "Winner":"California",
+    "WinnerPoints":30,
+    "Loser":"Washington",
+    "LoserPoints":24
+  },
+  {
+    "Rk":243,
+    "Winner":"Colorado",
+    "WinnerPoints":48,
+    "Loser":"Nicholls State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":244,
+    "Winner":"Colorado State",
+    "WinnerPoints":33,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":31
+  },
+  {
+    "Rk":245,
+    "Winner":"Duke",
+    "WinnerPoints":34,
+    "Loser":"(20) Georgia Tech",
+    "LoserPoints":20
+  },
+  {
+    "Rk":246,
+    "Winner":"East Carolina",
+    "WinnerPoints":35,
+    "Loser":"Virginia Tech",
+    "LoserPoints":28
+  },
+  {
+    "Rk":247,
+    "Winner":"Florida",
+    "WinnerPoints":28,
+    "Loser":"Tennessee",
+    "LoserPoints":27
+  },
+  {
+    "Rk":248,
+    "Winner":"Florida Atlantic",
+    "WinnerPoints":17,
+    "Loser":"Charlotte",
+    "LoserPoints":7
+  },
+  {
+    "Rk":249,
+    "Winner":"(7) Georgia",
+    "WinnerPoints":48,
+    "Loser":"Southern",
+    "LoserPoints":6
+  },
+  {
+    "Rk":250,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":44,
+    "Loser":"Idaho",
+    "LoserPoints":20
+  },
+  {
+    "Rk":251,
+    "Winner":"Houston",
+    "WinnerPoints":59,
+    "Loser":"Texas State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":252,
+    "Winner":"Illinois",
+    "WinnerPoints":27,
+    "Loser":"Middle Tennessee State",
+    "LoserPoints":25
+  },
+  {
+    "Rk":253,
+    "Winner":"Indiana",
+    "WinnerPoints":31,
+    "Loser":"Wake Forest",
+    "LoserPoints":24
+  },
+  {
+    "Rk":254,
+    "Winner":"Iowa",
+    "WinnerPoints":62,
+    "Loser":"North Texas",
+    "LoserPoints":16
+  },
+  {
+    "Rk":255,
+    "Winner":"James Madison",
+    "WinnerPoints":48,
+    "Loser":"Southern Methodist",
+    "LoserPoints":45
+  },
+  {
+    "Rk":256,
+    "Winner":"Kentucky",
+    "WinnerPoints":21,
+    "Loser":"(25) Missouri",
+    "LoserPoints":13
+  },
+  {
+    "Rk":257,
+    "Winner":"(8) Louisiana State",
+    "WinnerPoints":34,
+    "Loser":"Syracuse",
+    "LoserPoints":24
+  },
+  {
+    "Rk":258,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":27,
+    "Loser":"Florida International",
+    "LoserPoints":17
+  },
+  {
+    "Rk":259,
+    "Winner":"Louisville",
+    "WinnerPoints":45,
+    "Loser":"Samford",
+    "LoserPoints":3
+  },
+  {
+    "Rk":260,
+    "Winner":"Marshall",
+    "WinnerPoints":36,
+    "Loser":"Kent State",
+    "LoserPoints":29
+  },
+  {
+    "Rk":261,
+    "Winner":"Michigan",
+    "WinnerPoints":31,
+    "Loser":"(22) Brigham Young",
+    "LoserPoints":0
+  },
+  {
+    "Rk":262,
+    "Winner":"(2) Michigan State",
+    "WinnerPoints":30,
+    "Loser":"Central Michigan",
+    "LoserPoints":10
+  },
+  {
+    "Rk":263,
+    "Winner":"Minnesota",
+    "WinnerPoints":27,
+    "Loser":"Ohio",
+    "LoserPoints":24
+  },
+  {
+    "Rk":264,
+    "Winner":"(3) Mississippi",
+    "WinnerPoints":27,
+    "Loser":"Vanderbilt",
+    "LoserPoints":16
+  },
+  {
+    "Rk":265,
+    "Winner":"Mississippi State",
+    "WinnerPoints":17,
+    "Loser":"Auburn",
+    "LoserPoints":9
+  },
+  {
+    "Rk":266,
+    "Winner":"Navy",
+    "WinnerPoints":28,
+    "Loser":"Connecticut",
+    "LoserPoints":18
+  },
+  {
+    "Rk":267,
+    "Winner":"Nebraska",
+    "WinnerPoints":36,
+    "Loser":"Southern Mississippi",
+    "LoserPoints":28
+  },
+  {
+    "Rk":268,
+    "Winner":"Nevada",
+    "WinnerPoints":24,
+    "Loser":"Buffalo",
+    "LoserPoints":21
+  },
+  {
+    "Rk":269,
+    "Winner":"Nevada-Las Vegas",
+    "WinnerPoints":80,
+    "Loser":"Idaho State",
+    "LoserPoints":8
+  },
+  {
+    "Rk":270,
+    "Winner":"New Mexico",
+    "WinnerPoints":38,
+    "Loser":"Wyoming",
+    "LoserPoints":28
+  },
+  {
+    "Rk":271,
+    "Winner":"North Carolina",
+    "WinnerPoints":41,
+    "Loser":"Delaware",
+    "LoserPoints":14
+  },
+  {
+    "Rk":272,
+    "Winner":"North Carolina State",
+    "WinnerPoints":63,
+    "Loser":"South Alabama",
+    "LoserPoints":13
+  },
+  {
+    "Rk":273,
+    "Winner":"(17) Northwestern",
+    "WinnerPoints":24,
+    "Loser":"Ball State",
+    "LoserPoints":19
+  },
+  {
+    "Rk":274,
+    "Winner":"(6) Notre Dame",
+    "WinnerPoints":62,
+    "Loser":"Massachusetts",
+    "LoserPoints":27
+  },
+  {
+    "Rk":275,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":38,
+    "Loser":"Western Michigan",
+    "LoserPoints":12
+  },
+  {
+    "Rk":276,
+    "Winner":"(24) Oklahoma State",
+    "WinnerPoints":30,
+    "Loser":"Texas",
+    "LoserPoints":27
+  },
+  {
+    "Rk":277,
+    "Winner":"Penn State",
+    "WinnerPoints":37,
+    "Loser":"San Diego State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":278,
+    "Winner":"Rutgers",
+    "WinnerPoints":27,
+    "Loser":"Kansas",
+    "LoserPoints":14
+  },
+  {
+    "Rk":279,
+    "Winner":"San Jose State",
+    "WinnerPoints":49,
+    "Loser":"Fresno State",
+    "LoserPoints":23
+  },
+  {
+    "Rk":280,
+    "Winner":"South Carolina",
+    "WinnerPoints":31,
+    "Loser":"Central Florida",
+    "LoserPoints":14
+  },
+  {
+    "Rk":281,
+    "Winner":"(19) Southern California",
+    "WinnerPoints":42,
+    "Loser":"Arizona State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":282,
+    "Winner":"(14) Texas A&M",
+    "WinnerPoints":28,
+    "Loser":"Arkansas",
+    "LoserPoints":21
+  },
+  {
+    "Rk":283,
+    "Winner":"(3) Texas Christian",
+    "WinnerPoints":55,
+    "Loser":"Texas Tech",
+    "LoserPoints":52
+  },
+  {
+    "Rk":284,
+    "Winner":"Texas-El Paso",
+    "WinnerPoints":27,
+    "Loser":"Incarnate Word",
+    "LoserPoints":17
+  },
+  {
+    "Rk":285,
+    "Winner":"Toledo",
+    "WinnerPoints":37,
+    "Loser":"Arkansas State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":286,
+    "Winner":"(9) UCLA",
+    "WinnerPoints":56,
+    "Loser":"(16) Arizona",
+    "LoserPoints":30
+  },
+  {
+    "Rk":287,
+    "Winner":"(18) Utah",
+    "WinnerPoints":62,
+    "Loser":"(13) Oregon",
+    "LoserPoints":20
+  },
+  {
+    "Rk":288,
+    "Winner":"West Virginia",
+    "WinnerPoints":45,
+    "Loser":"Maryland",
+    "LoserPoints":6
+  },
+  {
+    "Rk":289,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":56,
+    "Loser":"Miami (OH)",
+    "LoserPoints":14
+  },
+  {
+    "Rk":290,
+    "Winner":"(22) Wisconsin",
+    "WinnerPoints":28,
+    "Loser":"Hawaii",
+    "LoserPoints":0
+  },
+  {
+    "Rk":291,
+    "Winner":"Cincinnati",
+    "WinnerPoints":34,
+    "Loser":"Miami (FL)",
+    "LoserPoints":23
+  },
+  {
+    "Rk":292,
+    "Winner":"Brigham Young",
+    "WinnerPoints":30,
+    "Loser":"Connecticut",
+    "LoserPoints":13
+  },
+  {
+    "Rk":293,
+    "Winner":"Memphis",
+    "WinnerPoints":24,
+    "Loser":"South Florida",
+    "LoserPoints":17
+  },
+  {
+    "Rk":294,
+    "Winner":"Temple",
+    "WinnerPoints":37,
+    "Loser":"Charlotte",
+    "LoserPoints":3
+  },
+  {
+    "Rk":295,
+    "Winner":"(13) Alabama",
+    "WinnerPoints":38,
+    "Loser":"(8) Georgia",
+    "LoserPoints":10
+  },
+  {
+    "Rk":296,
+    "Winner":"Appalachian State",
+    "WinnerPoints":31,
+    "Loser":"Wyoming",
+    "LoserPoints":13
+  },
+  {
+    "Rk":297,
+    "Winner":"Arizona State",
+    "WinnerPoints":38,
+    "Loser":"(7) UCLA",
+    "LoserPoints":23
+  },
+  {
+    "Rk":298,
+    "Winner":"Arkansas",
+    "WinnerPoints":24,
+    "Loser":"Tennessee",
+    "LoserPoints":20
+  },
+  {
+    "Rk":299,
+    "Winner":"Arkansas State",
+    "WinnerPoints":49,
+    "Loser":"Idaho",
+    "LoserPoints":35
+  },
+  {
+    "Rk":300,
+    "Winner":"Auburn",
+    "WinnerPoints":35,
+    "Loser":"San Jose State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":301,
+    "Winner":"(5) Baylor",
+    "WinnerPoints":63,
+    "Loser":"Texas Tech",
+    "LoserPoints":35
+  },
+  {
+    "Rk":302,
+    "Winner":"Boise State",
+    "WinnerPoints":55,
+    "Loser":"Hawaii",
+    "LoserPoints":0
+  },
+  {
+    "Rk":303,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":28,
+    "Loser":"Buffalo",
+    "LoserPoints":22
+  },
+  {
+    "Rk":304,
+    "Winner":"(24) California",
+    "WinnerPoints":34,
+    "Loser":"Washington State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":305,
+    "Winner":"Central Michigan",
+    "WinnerPoints":29,
+    "Loser":"Northern Illinois",
+    "LoserPoints":19
+  },
+  {
+    "Rk":306,
+    "Winner":"(12) Clemson",
+    "WinnerPoints":24,
+    "Loser":"(6) Notre Dame",
+    "LoserPoints":22
+  },
+  {
+    "Rk":307,
+    "Winner":"Duke",
+    "WinnerPoints":9,
+    "Loser":"Boston College",
+    "LoserPoints":7
+  },
+  {
+    "Rk":308,
+    "Winner":"East Carolina",
+    "WinnerPoints":49,
+    "Loser":"Southern Methodist",
+    "LoserPoints":23
+  },
+  {
+    "Rk":309,
+    "Winner":"(25) Florida",
+    "WinnerPoints":38,
+    "Loser":"(3) Mississippi",
+    "LoserPoints":10
+  },
+  {
+    "Rk":310,
+    "Winner":"(11) Florida State",
+    "WinnerPoints":24,
+    "Loser":"Wake Forest",
+    "LoserPoints":16
+  },
+  {
+    "Rk":311,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":51,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":31
+  },
+  {
+    "Rk":312,
+    "Winner":"Houston",
+    "WinnerPoints":38,
+    "Loser":"Tulsa",
+    "LoserPoints":24
+  },
+  {
+    "Rk":313,
+    "Winner":"Illinois",
+    "WinnerPoints":14,
+    "Loser":"Nebraska",
+    "LoserPoints":13
+  },
+  {
+    "Rk":314,
+    "Winner":"Iowa",
+    "WinnerPoints":10,
+    "Loser":"(19) Wisconsin",
+    "LoserPoints":6
+  },
+  {
+    "Rk":315,
+    "Winner":"Iowa State",
+    "WinnerPoints":38,
+    "Loser":"Kansas",
+    "LoserPoints":13
+  },
+  {
+    "Rk":316,
+    "Winner":"Kent State",
+    "WinnerPoints":20,
+    "Loser":"Miami (OH)",
+    "LoserPoints":14
+  },
+  {
+    "Rk":317,
+    "Winner":"Kentucky",
+    "WinnerPoints":34,
+    "Loser":"Eastern Kentucky",
+    "LoserPoints":27
+  },
+  {
+    "Rk":318,
+    "Winner":"Liberty",
+    "WinnerPoints":41,
+    "Loser":"Georgia State",
+    "LoserPoints":33
+  },
+  {
+    "Rk":319,
+    "Winner":"(9) Louisiana State",
+    "WinnerPoints":44,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":22
+  },
+  {
+    "Rk":320,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":43,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":14
+  },
+  {
+    "Rk":321,
+    "Winner":"Louisville",
+    "WinnerPoints":20,
+    "Loser":"North Carolina State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":322,
+    "Winner":"Marshall",
+    "WinnerPoints":27,
+    "Loser":"Old Dominion",
+    "LoserPoints":7
+  },
+  {
+    "Rk":323,
+    "Winner":"Massachusetts",
+    "WinnerPoints":24,
+    "Loser":"Florida International",
+    "LoserPoints":14
+  },
+  {
+    "Rk":324,
+    "Winner":"(22) Michigan",
+    "WinnerPoints":28,
+    "Loser":"Maryland",
+    "LoserPoints":0
+  },
+  {
+    "Rk":325,
+    "Winner":"(2) Michigan State",
+    "WinnerPoints":24,
+    "Loser":"Purdue",
+    "LoserPoints":21
+  },
+  {
+    "Rk":326,
+    "Winner":"Missouri",
+    "WinnerPoints":24,
+    "Loser":"South Carolina",
+    "LoserPoints":10
+  },
+  {
+    "Rk":327,
+    "Winner":"Navy",
+    "WinnerPoints":33,
+    "Loser":"Air Force",
+    "LoserPoints":11
+  },
+  {
+    "Rk":328,
+    "Winner":"Nevada-Las Vegas",
+    "WinnerPoints":23,
+    "Loser":"Nevada",
+    "LoserPoints":17
+  },
+  {
+    "Rk":329,
+    "Winner":"New Mexico",
+    "WinnerPoints":38,
+    "Loser":"New Mexico State",
+    "LoserPoints":29
+  },
+  {
+    "Rk":330,
+    "Winner":"North Carolina",
+    "WinnerPoints":38,
+    "Loser":"Georgia Tech",
+    "LoserPoints":31
+  },
+  {
+    "Rk":331,
+    "Winner":"(16) Northwestern",
+    "WinnerPoints":27,
+    "Loser":"Minnesota",
+    "LoserPoints":0
+  },
+  {
+    "Rk":332,
+    "Winner":"Ohio",
+    "WinnerPoints":14,
+    "Loser":"Akron",
+    "LoserPoints":12
+  },
+  {
+    "Rk":333,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":34,
+    "Loser":"Indiana",
+    "LoserPoints":27
+  },
+  {
+    "Rk":334,
+    "Winner":"(15) Oklahoma",
+    "WinnerPoints":44,
+    "Loser":"(23) West Virginia",
+    "LoserPoints":24
+  },
+  {
+    "Rk":335,
+    "Winner":"(20) Oklahoma State",
+    "WinnerPoints":36,
+    "Loser":"Kansas State",
+    "LoserPoints":34
+  },
+  {
+    "Rk":336,
+    "Winner":"Oregon",
+    "WinnerPoints":41,
+    "Loser":"Colorado",
+    "LoserPoints":24
+  },
+  {
+    "Rk":337,
+    "Winner":"Penn State",
+    "WinnerPoints":20,
+    "Loser":"Army",
+    "LoserPoints":14
+  },
+  {
+    "Rk":338,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":17,
+    "Loser":"Virginia Tech",
+    "LoserPoints":13
+  },
+  {
+    "Rk":339,
+    "Winner":"San Diego State",
+    "WinnerPoints":21,
+    "Loser":"Fresno State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":340,
+    "Winner":"South Alabama",
+    "WinnerPoints":24,
+    "Loser":"Troy",
+    "LoserPoints":18
+  },
+  {
+    "Rk":341,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":49,
+    "Loser":"North Texas",
+    "LoserPoints":14
+  },
+  {
+    "Rk":342,
+    "Winner":"(18) Stanford",
+    "WinnerPoints":55,
+    "Loser":"Arizona",
+    "LoserPoints":17
+  },
+  {
+    "Rk":343,
+    "Winner":"(14) Texas A&M",
+    "WinnerPoints":30,
+    "Loser":"(21) Mississippi State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":344,
+    "Winner":"(4) Texas Christian",
+    "WinnerPoints":50,
+    "Loser":"Texas",
+    "LoserPoints":7
+  },
+  {
+    "Rk":345,
+    "Winner":"Texas-San Antonio",
+    "WinnerPoints":25,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":6
+  },
+  {
+    "Rk":346,
+    "Winner":"Toledo",
+    "WinnerPoints":24,
+    "Loser":"Ball State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":347,
+    "Winner":"Tulane",
+    "WinnerPoints":45,
+    "Loser":"Central Florida",
+    "LoserPoints":31
+  },
+  {
+    "Rk":348,
+    "Winner":"Utah State",
+    "WinnerPoints":33,
+    "Loser":"Colorado State",
+    "LoserPoints":18
+  },
+  {
+    "Rk":349,
+    "Winner":"Vanderbilt",
+    "WinnerPoints":17,
+    "Loser":"Middle Tennessee State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":350,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":49,
+    "Loser":"Rice",
+    "LoserPoints":10
+  },
+  {
+    "Rk":351,
+    "Winner":"Houston",
+    "WinnerPoints":49,
+    "Loser":"Southern Methodist",
+    "LoserPoints":28
+  },
+  {
+    "Rk":352,
+    "Winner":"Washington",
+    "WinnerPoints":17,
+    "Loser":"(17) Southern California",
+    "LoserPoints":12
+  },
+  {
+    "Rk":353,
+    "Winner":"Marshall",
+    "WinnerPoints":31,
+    "Loser":"Southern Mississippi",
+    "LoserPoints":10
+  },
+  {
+    "Rk":354,
+    "Winner":"Virginia Tech",
+    "WinnerPoints":28,
+    "Loser":"North Carolina State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":355,
+    "Winner":"Air Force",
+    "WinnerPoints":31,
+    "Loser":"Wyoming",
+    "LoserPoints":17
+  },
+  {
+    "Rk":356,
+    "Winner":"Akron",
+    "WinnerPoints":47,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":21
+  },
+  {
+    "Rk":357,
+    "Winner":"(8) Alabama",
+    "WinnerPoints":27,
+    "Loser":"Arkansas",
+    "LoserPoints":14
+  },
+  {
+    "Rk":358,
+    "Winner":"Appalachian State",
+    "WinnerPoints":37,
+    "Loser":"Georgia State",
+    "LoserPoints":3
+  },
+  {
+    "Rk":359,
+    "Winner":"Arizona",
+    "WinnerPoints":44,
+    "Loser":"Oregon State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":360,
+    "Winner":"Arizona State",
+    "WinnerPoints":48,
+    "Loser":"Colorado",
+    "LoserPoints":23
+  },
+  {
+    "Rk":361,
+    "Winner":"(3) Baylor",
+    "WinnerPoints":66,
+    "Loser":"Kansas",
+    "LoserPoints":7
+  },
+  {
+    "Rk":362,
+    "Winner":"(25) Boise State",
+    "WinnerPoints":41,
+    "Loser":"Colorado State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":363,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":62,
+    "Loser":"Massachusetts",
+    "LoserPoints":38
+  },
+  {
+    "Rk":364,
+    "Winner":"Brigham Young",
+    "WinnerPoints":45,
+    "Loser":"East Carolina",
+    "LoserPoints":38
+  },
+  {
+    "Rk":365,
+    "Winner":"(6) Clemson",
+    "WinnerPoints":43,
+    "Loser":"Georgia Tech",
+    "LoserPoints":24
+  },
+  {
+    "Rk":366,
+    "Winner":"Connecticut",
+    "WinnerPoints":40,
+    "Loser":"Central Florida",
+    "LoserPoints":13
+  },
+  {
+    "Rk":367,
+    "Winner":"Duke",
+    "WinnerPoints":44,
+    "Loser":"Army",
+    "LoserPoints":3
+  },
+  {
+    "Rk":368,
+    "Winner":"(11) Florida",
+    "WinnerPoints":21,
+    "Loser":"Missouri",
+    "LoserPoints":3
+  },
+  {
+    "Rk":369,
+    "Winner":"Florida International",
+    "WinnerPoints":52,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":12
+  },
+  {
+    "Rk":370,
+    "Winner":"(12) Florida State",
+    "WinnerPoints":29,
+    "Loser":"Miami (FL)",
+    "LoserPoints":24
+  },
+  {
+    "Rk":371,
+    "Winner":"(22) Iowa",
+    "WinnerPoints":29,
+    "Loser":"Illinois",
+    "LoserPoints":20
+  },
+  {
+    "Rk":372,
+    "Winner":"(7) Louisiana State",
+    "WinnerPoints":45,
+    "Loser":"South Carolina",
+    "LoserPoints":24
+  },
+  {
+    "Rk":373,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":34,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":31
+  },
+  {
+    "Rk":374,
+    "Winner":"Louisiana-Lafayette",
+    "WinnerPoints":49,
+    "Loser":"Texas State",
+    "LoserPoints":27
+  },
+  {
+    "Rk":375,
+    "Winner":"(18) Michigan",
+    "WinnerPoints":38,
+    "Loser":"(13) Northwestern",
+    "LoserPoints":0
+  },
+  {
+    "Rk":376,
+    "Winner":"(4) Michigan State",
+    "WinnerPoints":31,
+    "Loser":"Rutgers",
+    "LoserPoints":24
+  },
+  {
+    "Rk":377,
+    "Winner":"Minnesota",
+    "WinnerPoints":41,
+    "Loser":"Purdue",
+    "LoserPoints":13
+  },
+  {
+    "Rk":378,
+    "Winner":"(14) Mississippi",
+    "WinnerPoints":52,
+    "Loser":"New Mexico State",
+    "LoserPoints":3
+  },
+  {
+    "Rk":379,
+    "Winner":"Mississippi State",
+    "WinnerPoints":45,
+    "Loser":"Troy",
+    "LoserPoints":17
+  },
+  {
+    "Rk":380,
+    "Winner":"Nevada",
+    "WinnerPoints":35,
+    "Loser":"New Mexico",
+    "LoserPoints":17
+  },
+  {
+    "Rk":381,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":59,
+    "Loser":"Ball State",
+    "LoserPoints":41
+  },
+  {
+    "Rk":382,
+    "Winner":"(15) Notre Dame",
+    "WinnerPoints":41,
+    "Loser":"Navy",
+    "LoserPoints":24
+  },
+  {
+    "Rk":383,
+    "Winner":"Ohio",
+    "WinnerPoints":34,
+    "Loser":"Miami (OH)",
+    "LoserPoints":3
+  },
+  {
+    "Rk":384,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":49,
+    "Loser":"Maryland",
+    "LoserPoints":28
+  },
+  {
+    "Rk":385,
+    "Winner":"(21) Oklahoma State",
+    "WinnerPoints":33,
+    "Loser":"West Virginia",
+    "LoserPoints":26
+  },
+  {
+    "Rk":386,
+    "Winner":"Penn State",
+    "WinnerPoints":29,
+    "Loser":"Indiana",
+    "LoserPoints":7
+  },
+  {
+    "Rk":387,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":26,
+    "Loser":"Virginia",
+    "LoserPoints":19
+  },
+  {
+    "Rk":388,
+    "Winner":"Portland State",
+    "WinnerPoints":66,
+    "Loser":"North Texas",
+    "LoserPoints":7
+  },
+  {
+    "Rk":389,
+    "Winner":"Rice",
+    "WinnerPoints":27,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":26
+  },
+  {
+    "Rk":390,
+    "Winner":"San Diego State",
+    "WinnerPoints":28,
+    "Loser":"Hawaii",
+    "LoserPoints":14
+  },
+  {
+    "Rk":391,
+    "Winner":"San Jose State",
+    "WinnerPoints":33,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":27
+  },
+  {
+    "Rk":392,
+    "Winner":"South Florida",
+    "WinnerPoints":45,
+    "Loser":"Syracuse",
+    "LoserPoints":24
+  },
+  {
+    "Rk":393,
+    "Winner":"Temple",
+    "WinnerPoints":49,
+    "Loser":"Tulane",
+    "LoserPoints":10
+  },
+  {
+    "Rk":394,
+    "Winner":"Tennessee",
+    "WinnerPoints":38,
+    "Loser":"(19) Georgia",
+    "LoserPoints":31
+  },
+  {
+    "Rk":395,
+    "Winner":"Texas",
+    "WinnerPoints":24,
+    "Loser":"(10) Oklahoma",
+    "LoserPoints":17
+  },
+  {
+    "Rk":396,
+    "Winner":"(2) Texas Christian",
+    "WinnerPoints":52,
+    "Loser":"Kansas State",
+    "LoserPoints":45
+  },
+  {
+    "Rk":397,
+    "Winner":"Texas Tech",
+    "WinnerPoints":66,
+    "Loser":"Iowa State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":398,
+    "Winner":"(24) Toledo",
+    "WinnerPoints":38,
+    "Loser":"Kent State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":399,
+    "Winner":"Tulsa",
+    "WinnerPoints":34,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":24
+  },
+  {
+    "Rk":400,
+    "Winner":"(5) Utah",
+    "WinnerPoints":30,
+    "Loser":"(23) California",
+    "LoserPoints":24
+  },
+  {
+    "Rk":401,
+    "Winner":"Utah State",
+    "WinnerPoints":56,
+    "Loser":"Fresno State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":402,
+    "Winner":"Wake Forest",
+    "WinnerPoints":3,
+    "Loser":"Boston College",
+    "LoserPoints":0
+  },
+  {
+    "Rk":403,
+    "Winner":"Washington State",
+    "WinnerPoints":45,
+    "Loser":"Oregon",
+    "LoserPoints":38
+  },
+  {
+    "Rk":404,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":58,
+    "Loser":"Middle Tennessee State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":405,
+    "Winner":"Western Michigan",
+    "WinnerPoints":41,
+    "Loser":"Central Michigan",
+    "LoserPoints":39
+  },
+  {
+    "Rk":406,
+    "Winner":"Wisconsin",
+    "WinnerPoints":23,
+    "Loser":"Nebraska",
+    "LoserPoints":21
+  },
+  {
+    "Rk":407,
+    "Winner":"Arkansas State",
+    "WinnerPoints":49,
+    "Loser":"South Alabama",
+    "LoserPoints":31
+  },
+  {
+    "Rk":408,
+    "Winner":"Auburn",
+    "WinnerPoints":30,
+    "Loser":"Kentucky",
+    "LoserPoints":27
+  },
+  {
+    "Rk":409,
+    "Winner":"(15) Stanford",
+    "WinnerPoints":56,
+    "Loser":"(18) UCLA",
+    "LoserPoints":35
+  },
+  {
+    "Rk":410,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":55,
+    "Loser":"North Texas",
+    "LoserPoints":28
+  },
+  {
+    "Rk":411,
+    "Winner":"Brigham Young",
+    "WinnerPoints":38,
+    "Loser":"Cincinnati",
+    "LoserPoints":24
+  },
+  {
+    "Rk":412,
+    "Winner":"Fresno State",
+    "WinnerPoints":31,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":28
+  },
+  {
+    "Rk":413,
+    "Winner":"(24) Houston",
+    "WinnerPoints":42,
+    "Loser":"Tulane",
+    "LoserPoints":7
+  },
+  {
+    "Rk":414,
+    "Winner":"Utah State",
+    "WinnerPoints":52,
+    "Loser":"(21) Boise State",
+    "LoserPoints":26
+  },
+  {
+    "Rk":415,
+    "Winner":"(10) Alabama",
+    "WinnerPoints":41,
+    "Loser":"(9) Texas A&M",
+    "LoserPoints":23
+  },
+  {
+    "Rk":416,
+    "Winner":"Appalachian State",
+    "WinnerPoints":59,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":14
+  },
+  {
+    "Rk":417,
+    "Winner":"Arizona",
+    "WinnerPoints":38,
+    "Loser":"Colorado",
+    "LoserPoints":31
+  },
+  {
+    "Rk":418,
+    "Winner":"Army",
+    "WinnerPoints":21,
+    "Loser":"Bucknell",
+    "LoserPoints":14
+  },
+  {
+    "Rk":419,
+    "Winner":"(2) Baylor",
+    "WinnerPoints":62,
+    "Loser":"West Virginia",
+    "LoserPoints":38
+  },
+  {
+    "Rk":420,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":59,
+    "Loser":"Akron",
+    "LoserPoints":10
+  },
+  {
+    "Rk":421,
+    "Winner":"Central Michigan",
+    "WinnerPoints":51,
+    "Loser":"Buffalo",
+    "LoserPoints":14
+  },
+  {
+    "Rk":422,
+    "Winner":"(5) Clemson",
+    "WinnerPoints":34,
+    "Loser":"Boston College",
+    "LoserPoints":17
+  },
+  {
+    "Rk":423,
+    "Winner":"Colorado State",
+    "WinnerPoints":38,
+    "Loser":"Air Force",
+    "LoserPoints":23
+  },
+  {
+    "Rk":424,
+    "Winner":"East Carolina",
+    "WinnerPoints":30,
+    "Loser":"Tulsa",
+    "LoserPoints":17
+  },
+  {
+    "Rk":425,
+    "Winner":"(11) Florida State",
+    "WinnerPoints":41,
+    "Loser":"Louisville",
+    "LoserPoints":21
+  },
+  {
+    "Rk":426,
+    "Winner":"Georgia",
+    "WinnerPoints":9,
+    "Loser":"Missouri",
+    "LoserPoints":6
+  },
+  {
+    "Rk":427,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":56,
+    "Loser":"New Mexico State",
+    "LoserPoints":26
+  },
+  {
+    "Rk":428,
+    "Winner":"Georgia State",
+    "WinnerPoints":31,
+    "Loser":"Ball State",
+    "LoserPoints":19
+  },
+  {
+    "Rk":429,
+    "Winner":"Idaho",
+    "WinnerPoints":19,
+    "Loser":"Troy",
+    "LoserPoints":16
+  },
+  {
+    "Rk":430,
+    "Winner":"(17) Iowa",
+    "WinnerPoints":40,
+    "Loser":"(20) Northwestern",
+    "LoserPoints":10
+  },
+  {
+    "Rk":431,
+    "Winner":"Kent State",
+    "WinnerPoints":15,
+    "Loser":"Massachusetts",
+    "LoserPoints":10
+  },
+  {
+    "Rk":432,
+    "Winner":"(6) Louisiana State",
+    "WinnerPoints":35,
+    "Loser":"(8) Florida",
+    "LoserPoints":28
+  },
+  {
+    "Rk":433,
+    "Winner":"Marshall",
+    "WinnerPoints":33,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":17
+  },
+  {
+    "Rk":434,
+    "Winner":"Memphis",
+    "WinnerPoints":37,
+    "Loser":"(13) Mississippi",
+    "LoserPoints":24
+  },
+  {
+    "Rk":435,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":30,
+    "Loser":"Virginia Tech",
+    "LoserPoints":20
+  },
+  {
+    "Rk":436,
+    "Winner":"(7) Michigan State",
+    "WinnerPoints":27,
+    "Loser":"(12) Michigan",
+    "LoserPoints":23
+  },
+  {
+    "Rk":437,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":42,
+    "Loser":"Florida International",
+    "LoserPoints":34
+  },
+  {
+    "Rk":438,
+    "Winner":"Mississippi State",
+    "WinnerPoints":45,
+    "Loser":"Louisiana Tech",
+    "LoserPoints":20
+  },
+  {
+    "Rk":439,
+    "Winner":"Nebraska",
+    "WinnerPoints":48,
+    "Loser":"Minnesota",
+    "LoserPoints":25
+  },
+  {
+    "Rk":440,
+    "Winner":"New Mexico",
+    "WinnerPoints":28,
+    "Loser":"Hawaii",
+    "LoserPoints":27
+  },
+  {
+    "Rk":441,
+    "Winner":"North Carolina",
+    "WinnerPoints":50,
+    "Loser":"Wake Forest",
+    "LoserPoints":14
+  },
+  {
+    "Rk":442,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":45,
+    "Loser":"Miami (OH)",
+    "LoserPoints":12
+  },
+  {
+    "Rk":443,
+    "Winner":"(14) Notre Dame",
+    "WinnerPoints":41,
+    "Loser":"Southern California",
+    "LoserPoints":31
+  },
+  {
+    "Rk":444,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":38,
+    "Loser":"Penn State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":445,
+    "Winner":"(19) Oklahoma",
+    "WinnerPoints":55,
+    "Loser":"Kansas State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":446,
+    "Winner":"Old Dominion",
+    "WinnerPoints":37,
+    "Loser":"Charlotte",
+    "LoserPoints":34
+  },
+  {
+    "Rk":447,
+    "Winner":"Oregon",
+    "WinnerPoints":26,
+    "Loser":"Washington",
+    "LoserPoints":20
+  },
+  {
+    "Rk":448,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":31,
+    "Loser":"Georgia Tech",
+    "LoserPoints":28
+  },
+  {
+    "Rk":449,
+    "Winner":"Rutgers",
+    "WinnerPoints":55,
+    "Loser":"Indiana",
+    "LoserPoints":52
+  },
+  {
+    "Rk":450,
+    "Winner":"San Diego State",
+    "WinnerPoints":30,
+    "Loser":"San Jose State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":451,
+    "Winner":"South Carolina",
+    "WinnerPoints":19,
+    "Loser":"Vanderbilt",
+    "LoserPoints":10
+  },
+  {
+    "Rk":452,
+    "Winner":"South Florida",
+    "WinnerPoints":28,
+    "Loser":"Connecticut",
+    "LoserPoints":20
+  },
+  {
+    "Rk":453,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":32,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":10
+  },
+  {
+    "Rk":454,
+    "Winner":"Temple",
+    "WinnerPoints":30,
+    "Loser":"Central Florida",
+    "LoserPoints":16
+  },
+  {
+    "Rk":455,
+    "Winner":"(3) Texas Christian",
+    "WinnerPoints":45,
+    "Loser":"Iowa State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":456,
+    "Winner":"Texas Tech",
+    "WinnerPoints":30,
+    "Loser":"Kansas",
+    "LoserPoints":20
+  },
+  {
+    "Rk":457,
+    "Winner":"(22) Toledo",
+    "WinnerPoints":63,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":20
+  },
+  {
+    "Rk":458,
+    "Winner":"(4) Utah",
+    "WinnerPoints":34,
+    "Loser":"Arizona State",
+    "LoserPoints":18
+  },
+  {
+    "Rk":459,
+    "Winner":"Virginia",
+    "WinnerPoints":44,
+    "Loser":"Syracuse",
+    "LoserPoints":38
+  },
+  {
+    "Rk":460,
+    "Winner":"Washington State",
+    "WinnerPoints":52,
+    "Loser":"Oregon State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":461,
+    "Winner":"Western Michigan",
+    "WinnerPoints":49,
+    "Loser":"Ohio",
+    "LoserPoints":14
+  },
+  {
+    "Rk":462,
+    "Winner":"Wisconsin",
+    "WinnerPoints":24,
+    "Loser":"Purdue",
+    "LoserPoints":7
+  },
+  {
+    "Rk":463,
+    "Winner":"Wyoming",
+    "WinnerPoints":28,
+    "Loser":"Nevada",
+    "LoserPoints":21
+  },
+  {
+    "Rk":464,
+    "Winner":"Arkansas State",
+    "WinnerPoints":37,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":27
+  },
+  {
+    "Rk":465,
+    "Winner":"Appalachian State",
+    "WinnerPoints":31,
+    "Loser":"Georgia Southern",
+    "LoserPoints":13
+  },
+  {
+    "Rk":466,
+    "Winner":"(22) Temple",
+    "WinnerPoints":24,
+    "Loser":"East Carolina",
+    "LoserPoints":14
+  },
+  {
+    "Rk":467,
+    "Winner":"UCLA",
+    "WinnerPoints":40,
+    "Loser":"(20) California",
+    "LoserPoints":24
+  },
+  {
+    "Rk":468,
+    "Winner":"(18) Memphis",
+    "WinnerPoints":66,
+    "Loser":"Tulsa",
+    "LoserPoints":42
+  },
+  {
+    "Rk":469,
+    "Winner":"San Diego State",
+    "WinnerPoints":48,
+    "Loser":"Utah State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":470,
+    "Winner":"Air Force",
+    "WinnerPoints":42,
+    "Loser":"Fresno State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":471,
+    "Winner":"(8) Alabama",
+    "WinnerPoints":19,
+    "Loser":"Tennessee",
+    "LoserPoints":14
+  },
+  {
+    "Rk":472,
+    "Winner":"Arkansas",
+    "WinnerPoints":54,
+    "Loser":"Auburn",
+    "LoserPoints":46
+  },
+  {
+    "Rk":473,
+    "Winner":"(2) Baylor",
+    "WinnerPoints":45,
+    "Loser":"Iowa State",
+    "LoserPoints":27
+  },
+  {
+    "Rk":474,
+    "Winner":"Boise State",
+    "WinnerPoints":34,
+    "Loser":"Wyoming",
+    "LoserPoints":14
+  },
+  {
+    "Rk":475,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":48,
+    "Loser":"Kent State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":476,
+    "Winner":"Brigham Young",
+    "WinnerPoints":70,
+    "Loser":"Wagner",
+    "LoserPoints":6
+  },
+  {
+    "Rk":477,
+    "Winner":"Buffalo",
+    "WinnerPoints":41,
+    "Loser":"Ohio",
+    "LoserPoints":17
+  },
+  {
+    "Rk":478,
+    "Winner":"Central Michigan",
+    "WinnerPoints":23,
+    "Loser":"Ball State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":479,
+    "Winner":"Cincinnati",
+    "WinnerPoints":37,
+    "Loser":"Connecticut",
+    "LoserPoints":13
+  },
+  {
+    "Rk":480,
+    "Winner":"(6) Clemson",
+    "WinnerPoints":58,
+    "Loser":"Miami (FL)",
+    "LoserPoints":0
+  },
+  {
+    "Rk":481,
+    "Winner":"Colorado",
+    "WinnerPoints":17,
+    "Loser":"Oregon State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":482,
+    "Winner":"(23) Duke",
+    "WinnerPoints":45,
+    "Loser":"Virginia Tech",
+    "LoserPoints":43
+  },
+  {
+    "Rk":483,
+    "Winner":"Florida International",
+    "WinnerPoints":41,
+    "Loser":"Old Dominion",
+    "LoserPoints":12
+  },
+  {
+    "Rk":484,
+    "Winner":"Georgia Tech",
+    "WinnerPoints":22,
+    "Loser":"(9) Florida State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":485,
+    "Winner":"(21) Houston",
+    "WinnerPoints":59,
+    "Loser":"Central Florida",
+    "LoserPoints":10
+  },
+  {
+    "Rk":486,
+    "Winner":"Idaho",
+    "WinnerPoints":27,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":13
+  },
+  {
+    "Rk":487,
+    "Winner":"(5) Louisiana State",
+    "WinnerPoints":48,
+    "Loser":"Western Kentucky",
+    "LoserPoints":20
+  },
+  {
+    "Rk":488,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":45,
+    "Loser":"Middle Tennessee State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":489,
+    "Winner":"Louisville",
+    "WinnerPoints":17,
+    "Loser":"Boston College",
+    "LoserPoints":14
+  },
+  {
+    "Rk":490,
+    "Winner":"Marshall",
+    "WinnerPoints":30,
+    "Loser":"North Texas",
+    "LoserPoints":13
+  },
+  {
+    "Rk":491,
+    "Winner":"(7) Michigan State",
+    "WinnerPoints":52,
+    "Loser":"Indiana",
+    "LoserPoints":26
+  },
+  {
+    "Rk":492,
+    "Winner":"(24) Mississippi",
+    "WinnerPoints":23,
+    "Loser":"(15) Texas A&M",
+    "LoserPoints":3
+  },
+  {
+    "Rk":493,
+    "Winner":"Mississippi State",
+    "WinnerPoints":42,
+    "Loser":"Kentucky",
+    "LoserPoints":16
+  },
+  {
+    "Rk":494,
+    "Winner":"Navy",
+    "WinnerPoints":31,
+    "Loser":"Tulane",
+    "LoserPoints":14
+  },
+  {
+    "Rk":495,
+    "Winner":"Nevada",
+    "WinnerPoints":30,
+    "Loser":"Hawaii",
+    "LoserPoints":20
+  },
+  {
+    "Rk":496,
+    "Winner":"North Carolina",
+    "WinnerPoints":26,
+    "Loser":"Virginia",
+    "LoserPoints":13
+  },
+  {
+    "Rk":497,
+    "Winner":"North Carolina State",
+    "WinnerPoints":35,
+    "Loser":"Wake Forest",
+    "LoserPoints":17
+  },
+  {
+    "Rk":498,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":49,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":21
+  },
+  {
+    "Rk":499,
+    "Winner":"Northwestern",
+    "WinnerPoints":30,
+    "Loser":"Nebraska",
+    "LoserPoints":28
+  },
+  {
+    "Rk":500,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":49,
+    "Loser":"Rutgers",
+    "LoserPoints":7
+  },
+  {
+    "Rk":501,
+    "Winner":"(17) Oklahoma",
+    "WinnerPoints":63,
+    "Loser":"Texas Tech",
+    "LoserPoints":27
+  },
+  {
+    "Rk":502,
+    "Winner":"(14) Oklahoma State",
+    "WinnerPoints":58,
+    "Loser":"Kansas",
+    "LoserPoints":10
+  },
+  {
+    "Rk":503,
+    "Winner":"Penn State",
+    "WinnerPoints":31,
+    "Loser":"Maryland",
+    "LoserPoints":30
+  },
+  {
+    "Rk":504,
+    "Winner":"(25) Pittsburgh",
+    "WinnerPoints":23,
+    "Loser":"Syracuse",
+    "LoserPoints":20
+  },
+  {
+    "Rk":505,
+    "Winner":"Rice",
+    "WinnerPoints":38,
+    "Loser":"Army",
+    "LoserPoints":31
+  },
+  {
+    "Rk":506,
+    "Winner":"San Jose State",
+    "WinnerPoints":31,
+    "Loser":"New Mexico",
+    "LoserPoints":21
+  },
+  {
+    "Rk":507,
+    "Winner":"South Florida",
+    "WinnerPoints":38,
+    "Loser":"Southern Methodist",
+    "LoserPoints":14
+  },
+  {
+    "Rk":508,
+    "Winner":"Southern California",
+    "WinnerPoints":42,
+    "Loser":"(3) Utah",
+    "LoserPoints":24
+  },
+  {
+    "Rk":509,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":44,
+    "Loser":"Charlotte",
+    "LoserPoints":10
+  },
+  {
+    "Rk":510,
+    "Winner":"(10) Stanford",
+    "WinnerPoints":31,
+    "Loser":"Washington",
+    "LoserPoints":14
+  },
+  {
+    "Rk":511,
+    "Winner":"Texas",
+    "WinnerPoints":23,
+    "Loser":"Kansas State",
+    "LoserPoints":9
+  },
+  {
+    "Rk":512,
+    "Winner":"Texas State",
+    "WinnerPoints":36,
+    "Loser":"South Alabama",
+    "LoserPoints":18
+  },
+  {
+    "Rk":513,
+    "Winner":"Texas-El Paso",
+    "WinnerPoints":27,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":17
+  },
+  {
+    "Rk":514,
+    "Winner":"(19) Toledo",
+    "WinnerPoints":51,
+    "Loser":"Massachusetts",
+    "LoserPoints":35
+  },
+  {
+    "Rk":515,
+    "Winner":"Troy",
+    "WinnerPoints":52,
+    "Loser":"New Mexico State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":516,
+    "Winner":"Vanderbilt",
+    "WinnerPoints":10,
+    "Loser":"Missouri",
+    "LoserPoints":3
+  },
+  {
+    "Rk":517,
+    "Winner":"Washington State",
+    "WinnerPoints":45,
+    "Loser":"Arizona",
+    "LoserPoints":42
+  },
+  {
+    "Rk":518,
+    "Winner":"Western Michigan",
+    "WinnerPoints":35,
+    "Loser":"Miami (OH)",
+    "LoserPoints":13
+  },
+  {
+    "Rk":519,
+    "Winner":"Wisconsin",
+    "WinnerPoints":24,
+    "Loser":"Illinois",
+    "LoserPoints":13
+  },
+  {
+    "Rk":520,
+    "Winner":"Buffalo",
+    "WinnerPoints":29,
+    "Loser":"Miami (OH)",
+    "LoserPoints":24
+  },
+  {
+    "Rk":521,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":37,
+    "Loser":"Texas State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":522,
+    "Winner":"North Carolina",
+    "WinnerPoints":26,
+    "Loser":"(23) Pittsburgh",
+    "LoserPoints":19
+  },
+  {
+    "Rk":523,
+    "Winner":"Oregon",
+    "WinnerPoints":61,
+    "Loser":"Arizona State",
+    "LoserPoints":55
+  },
+  {
+    "Rk":524,
+    "Winner":"(5) Texas Christian",
+    "WinnerPoints":40,
+    "Loser":"West Virginia",
+    "LoserPoints":10
+  },
+  {
+    "Rk":525,
+    "Winner":"Western Michigan",
+    "WinnerPoints":58,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":28
+  },
+  {
+    "Rk":526,
+    "Winner":"Connecticut",
+    "WinnerPoints":31,
+    "Loser":"East Carolina",
+    "LoserPoints":13
+  },
+  {
+    "Rk":527,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":42,
+    "Loser":"Rice",
+    "LoserPoints":17
+  },
+  {
+    "Rk":528,
+    "Winner":"Louisville",
+    "WinnerPoints":20,
+    "Loser":"Wake Forest",
+    "LoserPoints":19
+  },
+  {
+    "Rk":529,
+    "Winner":"Utah State",
+    "WinnerPoints":58,
+    "Loser":"Wyoming",
+    "LoserPoints":27
+  },
+  {
+    "Rk":530,
+    "Winner":"Air Force",
+    "WinnerPoints":58,
+    "Loser":"Hawaii",
+    "LoserPoints":7
+  },
+  {
+    "Rk":531,
+    "Winner":"Appalachian State",
+    "WinnerPoints":44,
+    "Loser":"Troy",
+    "LoserPoints":41
+  },
+  {
+    "Rk":532,
+    "Winner":"Arkansas",
+    "WinnerPoints":63,
+    "Loser":"Tennessee-Martin",
+    "LoserPoints":28
+  },
+  {
+    "Rk":533,
+    "Winner":"Arkansas State",
+    "WinnerPoints":48,
+    "Loser":"Georgia State",
+    "LoserPoints":34
+  },
+  {
+    "Rk":534,
+    "Winner":"Ball State",
+    "WinnerPoints":20,
+    "Loser":"Massachusetts",
+    "LoserPoints":10
+  },
+  {
+    "Rk":535,
+    "Winner":"Boise State",
+    "WinnerPoints":55,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":27
+  },
+  {
+    "Rk":536,
+    "Winner":"Central Michigan",
+    "WinnerPoints":14,
+    "Loser":"Akron",
+    "LoserPoints":6
+  },
+  {
+    "Rk":537,
+    "Winner":"Cincinnati",
+    "WinnerPoints":52,
+    "Loser":"Central Florida",
+    "LoserPoints":7
+  },
+  {
+    "Rk":538,
+    "Winner":"(3) Clemson",
+    "WinnerPoints":56,
+    "Loser":"North Carolina State",
+    "LoserPoints":41
+  },
+  {
+    "Rk":539,
+    "Winner":"(11) Florida",
+    "WinnerPoints":27,
+    "Loser":"Georgia",
+    "LoserPoints":3
+  },
+  {
+    "Rk":540,
+    "Winner":"Florida Atlantic",
+    "WinnerPoints":31,
+    "Loser":"Florida International",
+    "LoserPoints":17
+  },
+  {
+    "Rk":541,
+    "Winner":"(17) Florida State",
+    "WinnerPoints":45,
+    "Loser":"Syracuse",
+    "LoserPoints":21
+  },
+  {
+    "Rk":542,
+    "Winner":"(18) Houston",
+    "WinnerPoints":34,
+    "Loser":"Vanderbilt",
+    "LoserPoints":0
+  },
+  {
+    "Rk":543,
+    "Winner":"(10) Iowa",
+    "WinnerPoints":31,
+    "Loser":"Maryland",
+    "LoserPoints":15
+  },
+  {
+    "Rk":544,
+    "Winner":"Iowa State",
+    "WinnerPoints":24,
+    "Loser":"Texas",
+    "LoserPoints":0
+  },
+  {
+    "Rk":545,
+    "Winner":"Louisiana-Lafayette",
+    "WinnerPoints":30,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":24
+  },
+  {
+    "Rk":546,
+    "Winner":"Marshall",
+    "WinnerPoints":34,
+    "Loser":"Charlotte",
+    "LoserPoints":10
+  },
+  {
+    "Rk":547,
+    "Winner":"(16) Memphis",
+    "WinnerPoints":41,
+    "Loser":"Tulane",
+    "LoserPoints":13
+  },
+  {
+    "Rk":548,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":30,
+    "Loser":"(22) Duke",
+    "LoserPoints":27
+  },
+  {
+    "Rk":549,
+    "Winner":"(15) Michigan",
+    "WinnerPoints":29,
+    "Loser":"Minnesota",
+    "LoserPoints":26
+  },
+  {
+    "Rk":550,
+    "Winner":"(19) Mississippi",
+    "WinnerPoints":27,
+    "Loser":"Auburn",
+    "LoserPoints":19
+  },
+  {
+    "Rk":551,
+    "Winner":"Navy",
+    "WinnerPoints":29,
+    "Loser":"South Florida",
+    "LoserPoints":17
+  },
+  {
+    "Rk":552,
+    "Winner":"New Mexico State",
+    "WinnerPoints":55,
+    "Loser":"Idaho",
+    "LoserPoints":48
+  },
+  {
+    "Rk":553,
+    "Winner":"North Texas",
+    "WinnerPoints":30,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":23
+  },
+  {
+    "Rk":554,
+    "Winner":"(9) Notre Dame",
+    "WinnerPoints":24,
+    "Loser":"(21) Temple",
+    "LoserPoints":20
+  },
+  {
+    "Rk":555,
+    "Winner":"(14) Oklahoma",
+    "WinnerPoints":62,
+    "Loser":"Kansas",
+    "LoserPoints":7
+  },
+  {
+    "Rk":556,
+    "Winner":"(12) Oklahoma State",
+    "WinnerPoints":70,
+    "Loser":"Texas Tech",
+    "LoserPoints":53
+  },
+  {
+    "Rk":557,
+    "Winner":"Penn State",
+    "WinnerPoints":39,
+    "Loser":"Illinois",
+    "LoserPoints":0
+  },
+  {
+    "Rk":558,
+    "Winner":"Purdue",
+    "WinnerPoints":55,
+    "Loser":"Nebraska",
+    "LoserPoints":45
+  },
+  {
+    "Rk":559,
+    "Winner":"San Diego State",
+    "WinnerPoints":41,
+    "Loser":"Colorado State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":560,
+    "Winner":"Southern California",
+    "WinnerPoints":27,
+    "Loser":"California",
+    "LoserPoints":21
+  },
+  {
+    "Rk":561,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":34,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":13
+  },
+  {
+    "Rk":562,
+    "Winner":"(8) Stanford",
+    "WinnerPoints":30,
+    "Loser":"Washington State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":563,
+    "Winner":"Tennessee",
+    "WinnerPoints":52,
+    "Loser":"Kentucky",
+    "LoserPoints":21
+  },
+  {
+    "Rk":564,
+    "Winner":"Texas A&M",
+    "WinnerPoints":35,
+    "Loser":"South Carolina",
+    "LoserPoints":28
+  },
+  {
+    "Rk":565,
+    "Winner":"Tulsa",
+    "WinnerPoints":40,
+    "Loser":"Southern Methodist",
+    "LoserPoints":31
+  },
+  {
+    "Rk":566,
+    "Winner":"(24) UCLA",
+    "WinnerPoints":35,
+    "Loser":"Colorado",
+    "LoserPoints":31
+  },
+  {
+    "Rk":567,
+    "Winner":"(13) Utah",
+    "WinnerPoints":27,
+    "Loser":"Oregon State",
+    "LoserPoints":12
+  },
+  {
+    "Rk":568,
+    "Winner":"Virginia",
+    "WinnerPoints":27,
+    "Loser":"Georgia Tech",
+    "LoserPoints":21
+  },
+  {
+    "Rk":569,
+    "Winner":"Virginia Tech",
+    "WinnerPoints":26,
+    "Loser":"Boston College",
+    "LoserPoints":10
+  },
+  {
+    "Rk":570,
+    "Winner":"Washington",
+    "WinnerPoints":49,
+    "Loser":"Arizona",
+    "LoserPoints":3
+  },
+  {
+    "Rk":571,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":55,
+    "Loser":"Old Dominion",
+    "LoserPoints":30
+  },
+  {
+    "Rk":572,
+    "Winner":"Wisconsin",
+    "WinnerPoints":48,
+    "Loser":"Rutgers",
+    "LoserPoints":10
+  },
+  {
+    "Rk":573,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":32,
+    "Loser":"(20) Toledo",
+    "LoserPoints":27
+  },
+  {
+    "Rk":574,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":62,
+    "Loser":"Ohio",
+    "LoserPoints":24
+  },
+  {
+    "Rk":575,
+    "Winner":"Arkansas State",
+    "WinnerPoints":40,
+    "Loser":"Appalachian State",
+    "LoserPoints":27
+  },
+  {
+    "Rk":576,
+    "Winner":"(2) Baylor",
+    "WinnerPoints":31,
+    "Loser":"Kansas State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":577,
+    "Winner":"Buffalo",
+    "WinnerPoints":18,
+    "Loser":"Kent State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":578,
+    "Winner":"(24) Mississippi State",
+    "WinnerPoints":31,
+    "Loser":"Missouri",
+    "LoserPoints":13
+  },
+  {
+    "Rk":579,
+    "Winner":"Nevada",
+    "WinnerPoints":30,
+    "Loser":"Fresno State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":580,
+    "Winner":"Western Michigan",
+    "WinnerPoints":54,
+    "Loser":"Ball State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":581,
+    "Winner":"Brigham Young",
+    "WinnerPoints":17,
+    "Loser":"San Jose State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":582,
+    "Winner":"(23) Temple",
+    "WinnerPoints":60,
+    "Loser":"Southern Methodist",
+    "LoserPoints":40
+  },
+  {
+    "Rk":583,
+    "Winner":"Texas-El Paso",
+    "WinnerPoints":24,
+    "Loser":"Rice",
+    "LoserPoints":21
+  },
+  {
+    "Rk":584,
+    "Winner":"Air Force",
+    "WinnerPoints":20,
+    "Loser":"Army",
+    "LoserPoints":3
+  },
+  {
+    "Rk":585,
+    "Winner":"Akron",
+    "WinnerPoints":17,
+    "Loser":"Massachusetts",
+    "LoserPoints":13
+  },
+  {
+    "Rk":586,
+    "Winner":"(7) Alabama",
+    "WinnerPoints":30,
+    "Loser":"(4) Louisiana State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":587,
+    "Winner":"Arkansas",
+    "WinnerPoints":53,
+    "Loser":"(19) Mississippi",
+    "LoserPoints":52
+  },
+  {
+    "Rk":588,
+    "Winner":"Auburn",
+    "WinnerPoints":26,
+    "Loser":"(25) Texas A&M",
+    "LoserPoints":10
+  },
+  {
+    "Rk":589,
+    "Winner":"(3) Clemson",
+    "WinnerPoints":23,
+    "Loser":"(17) Florida State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":590,
+    "Winner":"Colorado State",
+    "WinnerPoints":26,
+    "Loser":"Wyoming",
+    "LoserPoints":7
+  },
+  {
+    "Rk":591,
+    "Winner":"Connecticut",
+    "WinnerPoints":7,
+    "Loser":"Tulane",
+    "LoserPoints":3
+  },
+  {
+    "Rk":592,
+    "Winner":"(11) Florida",
+    "WinnerPoints":9,
+    "Loser":"Vanderbilt",
+    "LoserPoints":7
+  },
+  {
+    "Rk":593,
+    "Winner":"Florida International",
+    "WinnerPoints":48,
+    "Loser":"Charlotte",
+    "LoserPoints":31
+  },
+  {
+    "Rk":594,
+    "Winner":"Georgia",
+    "WinnerPoints":27,
+    "Loser":"Kentucky",
+    "LoserPoints":3
+  },
+  {
+    "Rk":595,
+    "Winner":"(18) Houston",
+    "WinnerPoints":33,
+    "Loser":"Cincinnati",
+    "LoserPoints":30
+  },
+  {
+    "Rk":596,
+    "Winner":"Illinois",
+    "WinnerPoints":48,
+    "Loser":"Purdue",
+    "LoserPoints":14
+  },
+  {
+    "Rk":597,
+    "Winner":"(10) Iowa",
+    "WinnerPoints":35,
+    "Loser":"Indiana",
+    "LoserPoints":27
+  },
+  {
+    "Rk":598,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":56,
+    "Loser":"North Texas",
+    "LoserPoints":13
+  },
+  {
+    "Rk":599,
+    "Winner":"Louisiana-Lafayette",
+    "WinnerPoints":23,
+    "Loser":"Georgia State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":600,
+    "Winner":"Louisville",
+    "WinnerPoints":41,
+    "Loser":"Syracuse",
+    "LoserPoints":17
+  },
+  {
+    "Rk":601,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":27,
+    "Loser":"Virginia",
+    "LoserPoints":21
+  },
+  {
+    "Rk":602,
+    "Winner":"Miami (OH)",
+    "WinnerPoints":28,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":13
+  },
+  {
+    "Rk":603,
+    "Winner":"(16) Michigan",
+    "WinnerPoints":49,
+    "Loser":"Rutgers",
+    "LoserPoints":16
+  },
+  {
+    "Rk":604,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":27,
+    "Loser":"Marshall",
+    "LoserPoints":24
+  },
+  {
+    "Rk":605,
+    "Winner":"Navy",
+    "WinnerPoints":45,
+    "Loser":"(15) Memphis",
+    "LoserPoints":20
+  },
+  {
+    "Rk":606,
+    "Winner":"Nebraska",
+    "WinnerPoints":39,
+    "Loser":"(6) Michigan State",
+    "LoserPoints":38
+  },
+  {
+    "Rk":607,
+    "Winner":"Nevada-Las Vegas",
+    "WinnerPoints":41,
+    "Loser":"Hawaii",
+    "LoserPoints":21
+  },
+  {
+    "Rk":608,
+    "Winner":"New Mexico",
+    "WinnerPoints":14,
+    "Loser":"Utah State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":609,
+    "Winner":"New Mexico State",
+    "WinnerPoints":31,
+    "Loser":"Texas State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":610,
+    "Winner":"(21) North Carolina",
+    "WinnerPoints":66,
+    "Loser":"Duke",
+    "LoserPoints":31
+  },
+  {
+    "Rk":611,
+    "Winner":"North Carolina State",
+    "WinnerPoints":24,
+    "Loser":"Boston College",
+    "LoserPoints":8
+  },
+  {
+    "Rk":612,
+    "Winner":"Northwestern",
+    "WinnerPoints":23,
+    "Loser":"Penn State",
+    "LoserPoints":21
+  },
+  {
+    "Rk":613,
+    "Winner":"(8) Notre Dame",
+    "WinnerPoints":42,
+    "Loser":"Pittsburgh",
+    "LoserPoints":30
+  },
+  {
+    "Rk":614,
+    "Winner":"(1) Ohio State",
+    "WinnerPoints":28,
+    "Loser":"Minnesota",
+    "LoserPoints":14
+  },
+  {
+    "Rk":615,
+    "Winner":"(14) Oklahoma",
+    "WinnerPoints":52,
+    "Loser":"Iowa State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":616,
+    "Winner":"(12) Oklahoma State",
+    "WinnerPoints":49,
+    "Loser":"(5) Texas Christian",
+    "LoserPoints":29
+  },
+  {
+    "Rk":617,
+    "Winner":"Old Dominion",
+    "WinnerPoints":36,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":31
+  },
+  {
+    "Rk":618,
+    "Winner":"Oregon",
+    "WinnerPoints":44,
+    "Loser":"California",
+    "LoserPoints":28
+  },
+  {
+    "Rk":619,
+    "Winner":"South Alabama",
+    "WinnerPoints":52,
+    "Loser":"Idaho",
+    "LoserPoints":45
+  },
+  {
+    "Rk":620,
+    "Winner":"South Florida",
+    "WinnerPoints":22,
+    "Loser":"East Carolina",
+    "LoserPoints":17
+  },
+  {
+    "Rk":621,
+    "Winner":"Southern California",
+    "WinnerPoints":38,
+    "Loser":"Arizona",
+    "LoserPoints":30
+  },
+  {
+    "Rk":622,
+    "Winner":"(9) Stanford",
+    "WinnerPoints":42,
+    "Loser":"Colorado",
+    "LoserPoints":10
+  },
+  {
+    "Rk":623,
+    "Winner":"Tennessee",
+    "WinnerPoints":27,
+    "Loser":"South Carolina",
+    "LoserPoints":24
+  },
+  {
+    "Rk":624,
+    "Winner":"Texas",
+    "WinnerPoints":59,
+    "Loser":"Kansas",
+    "LoserPoints":20
+  },
+  {
+    "Rk":625,
+    "Winner":"Troy",
+    "WinnerPoints":51,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":14
+  },
+  {
+    "Rk":626,
+    "Winner":"Tulsa",
+    "WinnerPoints":45,
+    "Loser":"Central Florida",
+    "LoserPoints":30
+  },
+  {
+    "Rk":627,
+    "Winner":"(22) UCLA",
+    "WinnerPoints":41,
+    "Loser":"Oregon State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":628,
+    "Winner":"(13) Utah",
+    "WinnerPoints":34,
+    "Loser":"Washington",
+    "LoserPoints":23
+  },
+  {
+    "Rk":629,
+    "Winner":"Washington State",
+    "WinnerPoints":38,
+    "Loser":"Arizona State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":630,
+    "Winner":"West Virginia",
+    "WinnerPoints":31,
+    "Loser":"Texas Tech",
+    "LoserPoints":26
+  },
+  {
+    "Rk":631,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":35,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":19
+  },
+  {
+    "Rk":632,
+    "Winner":"Wisconsin",
+    "WinnerPoints":31,
+    "Loser":"Maryland",
+    "LoserPoints":24
+  },
+  {
+    "Rk":633,
+    "Winner":"Ohio",
+    "WinnerPoints":27,
+    "Loser":"Kent State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":634,
+    "Winner":"Toledo",
+    "WinnerPoints":28,
+    "Loser":"Central Michigan",
+    "LoserPoints":23
+  },
+  {
+    "Rk":635,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":41,
+    "Loser":"Western Michigan",
+    "LoserPoints":27
+  },
+  {
+    "Rk":636,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":41,
+    "Loser":"Buffalo",
+    "LoserPoints":30
+  },
+  {
+    "Rk":637,
+    "Winner":"South Alabama",
+    "WinnerPoints":32,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":25
+  },
+  {
+    "Rk":638,
+    "Winner":"Virginia Tech",
+    "WinnerPoints":23,
+    "Loser":"Georgia Tech",
+    "LoserPoints":21
+  },
+  {
+    "Rk":639,
+    "Winner":"Southern California",
+    "WinnerPoints":27,
+    "Loser":"Colorado",
+    "LoserPoints":24
+  },
+  {
+    "Rk":640,
+    "Winner":"Air Force",
+    "WinnerPoints":35,
+    "Loser":"Utah State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":641,
+    "Winner":"Akron",
+    "WinnerPoints":37,
+    "Loser":"Miami (OH)",
+    "LoserPoints":28
+  },
+  {
+    "Rk":642,
+    "Winner":"(3) Alabama",
+    "WinnerPoints":31,
+    "Loser":"(20) Mississippi State",
+    "LoserPoints":6
+  },
+  {
+    "Rk":643,
+    "Winner":"Appalachian State",
+    "WinnerPoints":47,
+    "Loser":"Idaho",
+    "LoserPoints":20
+  },
+  {
+    "Rk":644,
+    "Winner":"Arizona",
+    "WinnerPoints":37,
+    "Loser":"(10) Utah",
+    "LoserPoints":30
+  },
+  {
+    "Rk":645,
+    "Winner":"Arizona State",
+    "WinnerPoints":27,
+    "Loser":"Washington",
+    "LoserPoints":17
+  },
+  {
+    "Rk":646,
+    "Winner":"Arkansas",
+    "WinnerPoints":31,
+    "Loser":"(9) Louisiana State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":647,
+    "Winner":"Arkansas State",
+    "WinnerPoints":59,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":21
+  },
+  {
+    "Rk":648,
+    "Winner":"California",
+    "WinnerPoints":54,
+    "Loser":"Oregon State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":649,
+    "Winner":"Cincinnati",
+    "WinnerPoints":49,
+    "Loser":"Tulsa",
+    "LoserPoints":38
+  },
+  {
+    "Rk":650,
+    "Winner":"(1) Clemson",
+    "WinnerPoints":37,
+    "Loser":"Syracuse",
+    "LoserPoints":27
+  },
+  {
+    "Rk":651,
+    "Winner":"Colorado State",
+    "WinnerPoints":49,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":35
+  },
+  {
+    "Rk":652,
+    "Winner":"(11) Florida",
+    "WinnerPoints":24,
+    "Loser":"South Carolina",
+    "LoserPoints":14
+  },
+  {
+    "Rk":653,
+    "Winner":"(19) Florida State",
+    "WinnerPoints":34,
+    "Loser":"North Carolina State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":654,
+    "Winner":"Fresno State",
+    "WinnerPoints":42,
+    "Loser":"Hawaii",
+    "LoserPoints":14
+  },
+  {
+    "Rk":655,
+    "Winner":"Georgia",
+    "WinnerPoints":20,
+    "Loser":"Auburn",
+    "LoserPoints":13
+  },
+  {
+    "Rk":656,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":45,
+    "Loser":"Troy",
+    "LoserPoints":10
+  },
+  {
+    "Rk":657,
+    "Winner":"Georgia State",
+    "WinnerPoints":41,
+    "Loser":"Texas State",
+    "LoserPoints":19
+  },
+  {
+    "Rk":658,
+    "Winner":"(16) Houston",
+    "WinnerPoints":35,
+    "Loser":"(25) Memphis",
+    "LoserPoints":34
+  },
+  {
+    "Rk":659,
+    "Winner":"(8) Iowa",
+    "WinnerPoints":40,
+    "Loser":"Minnesota",
+    "LoserPoints":35
+  },
+  {
+    "Rk":660,
+    "Winner":"Louisville",
+    "WinnerPoints":38,
+    "Loser":"Virginia",
+    "LoserPoints":31
+  },
+  {
+    "Rk":661,
+    "Winner":"Marshall",
+    "WinnerPoints":52,
+    "Loser":"Florida International",
+    "LoserPoints":0
+  },
+  {
+    "Rk":662,
+    "Winner":"Massachusetts",
+    "WinnerPoints":28,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":17
+  },
+  {
+    "Rk":663,
+    "Winner":"(15) Michigan",
+    "WinnerPoints":48,
+    "Loser":"Indiana",
+    "LoserPoints":41
+  },
+  {
+    "Rk":664,
+    "Winner":"(14) Michigan State",
+    "WinnerPoints":24,
+    "Loser":"Maryland",
+    "LoserPoints":7
+  },
+  {
+    "Rk":665,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":24,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":17
+  },
+  {
+    "Rk":666,
+    "Winner":"Missouri",
+    "WinnerPoints":20,
+    "Loser":"Brigham Young",
+    "LoserPoints":16
+  },
+  {
+    "Rk":667,
+    "Winner":"(22) Navy",
+    "WinnerPoints":55,
+    "Loser":"Southern Methodist",
+    "LoserPoints":14
+  },
+  {
+    "Rk":668,
+    "Winner":"Nebraska",
+    "WinnerPoints":31,
+    "Loser":"Rutgers",
+    "LoserPoints":14
+  },
+  {
+    "Rk":669,
+    "Winner":"Nevada",
+    "WinnerPoints":37,
+    "Loser":"San Jose State",
+    "LoserPoints":34
+  },
+  {
+    "Rk":670,
+    "Winner":"New Mexico",
+    "WinnerPoints":31,
+    "Loser":"Boise State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":671,
+    "Winner":"(17) North Carolina",
+    "WinnerPoints":59,
+    "Loser":"Miami (FL)",
+    "LoserPoints":21
+  },
+  {
+    "Rk":672,
+    "Winner":"(24) Northwestern",
+    "WinnerPoints":21,
+    "Loser":"Purdue",
+    "LoserPoints":14
+  },
+  {
+    "Rk":673,
+    "Winner":"(6) Notre Dame",
+    "WinnerPoints":28,
+    "Loser":"Wake Forest",
+    "LoserPoints":7
+  },
+  {
+    "Rk":674,
+    "Winner":"(2) Ohio State",
+    "WinnerPoints":28,
+    "Loser":"Illinois",
+    "LoserPoints":3
+  },
+  {
+    "Rk":675,
+    "Winner":"(12) Oklahoma",
+    "WinnerPoints":44,
+    "Loser":"(4) Baylor",
+    "LoserPoints":34
+  },
+  {
+    "Rk":676,
+    "Winner":"(5) Oklahoma State",
+    "WinnerPoints":35,
+    "Loser":"Iowa State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":677,
+    "Winner":"Old Dominion",
+    "WinnerPoints":31,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":21
+  },
+  {
+    "Rk":678,
+    "Winner":"Oregon",
+    "WinnerPoints":38,
+    "Loser":"(7) Stanford",
+    "LoserPoints":36
+  },
+  {
+    "Rk":679,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":31,
+    "Loser":"Duke",
+    "LoserPoints":13
+  },
+  {
+    "Rk":680,
+    "Winner":"San Diego State",
+    "WinnerPoints":38,
+    "Loser":"Wyoming",
+    "LoserPoints":3
+  },
+  {
+    "Rk":681,
+    "Winner":"South Florida",
+    "WinnerPoints":44,
+    "Loser":"(21) Temple",
+    "LoserPoints":23
+  },
+  {
+    "Rk":682,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":65,
+    "Loser":"Rice",
+    "LoserPoints":10
+  },
+  {
+    "Rk":683,
+    "Winner":"Tennessee",
+    "WinnerPoints":24,
+    "Loser":"North Texas",
+    "LoserPoints":0
+  },
+  {
+    "Rk":684,
+    "Winner":"Texas A&M",
+    "WinnerPoints":41,
+    "Loser":"Western Carolina",
+    "LoserPoints":17
+  },
+  {
+    "Rk":685,
+    "Winner":"(13) Texas Christian",
+    "WinnerPoints":23,
+    "Loser":"Kansas",
+    "LoserPoints":17
+  },
+  {
+    "Rk":686,
+    "Winner":"Texas Tech",
+    "WinnerPoints":59,
+    "Loser":"Kansas State",
+    "LoserPoints":44
+  },
+  {
+    "Rk":687,
+    "Winner":"Texas-San Antonio",
+    "WinnerPoints":30,
+    "Loser":"Charlotte",
+    "LoserPoints":27
+  },
+  {
+    "Rk":688,
+    "Winner":"Tulane",
+    "WinnerPoints":34,
+    "Loser":"Army",
+    "LoserPoints":31
+  },
+  {
+    "Rk":689,
+    "Winner":"Vanderbilt",
+    "WinnerPoints":21,
+    "Loser":"Kentucky",
+    "LoserPoints":17
+  },
+  {
+    "Rk":690,
+    "Winner":"Washington State",
+    "WinnerPoints":31,
+    "Loser":"(18) UCLA",
+    "LoserPoints":27
+  },
+  {
+    "Rk":691,
+    "Winner":"West Virginia",
+    "WinnerPoints":38,
+    "Loser":"Texas",
+    "LoserPoints":20
+  },
+  {
+    "Rk":692,
+    "Winner":"Ohio",
+    "WinnerPoints":48,
+    "Loser":"Ball State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":693,
+    "Winner":"Toledo",
+    "WinnerPoints":44,
+    "Loser":"Bowling Green State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":694,
+    "Winner":"Central Michigan",
+    "WinnerPoints":27,
+    "Loser":"Kent State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":695,
+    "Winner":"Northern Illinois",
+    "WinnerPoints":27,
+    "Loser":"Western Michigan",
+    "LoserPoints":19
+  },
+  {
+    "Rk":696,
+    "Winner":"East Carolina",
+    "WinnerPoints":44,
+    "Loser":"Central Florida",
+    "LoserPoints":7
+  },
+  {
+    "Rk":697,
+    "Winner":"Texas State",
+    "WinnerPoints":16,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":3
+  },
+  {
+    "Rk":698,
+    "Winner":"Air Force",
+    "WinnerPoints":37,
+    "Loser":"Boise State",
+    "LoserPoints":30
+  },
+  {
+    "Rk":699,
+    "Winner":"South Florida",
+    "WinnerPoints":65,
+    "Loser":"Cincinnati",
+    "LoserPoints":27
+  },
+  {
+    "Rk":700,
+    "Winner":"Akron",
+    "WinnerPoints":42,
+    "Loser":"Buffalo",
+    "LoserPoints":21
+  },
+  {
+    "Rk":701,
+    "Winner":"(3) Alabama",
+    "WinnerPoints":56,
+    "Loser":"Charleston Southern",
+    "LoserPoints":6
+  },
+  {
+    "Rk":702,
+    "Winner":"Arizona State",
+    "WinnerPoints":52,
+    "Loser":"Arizona",
+    "LoserPoints":37
+  },
+  {
+    "Rk":703,
+    "Winner":"Auburn",
+    "WinnerPoints":56,
+    "Loser":"Idaho",
+    "LoserPoints":34
+  },
+  {
+    "Rk":704,
+    "Winner":"(10) Baylor",
+    "WinnerPoints":45,
+    "Loser":"(4) Oklahoma State",
+    "LoserPoints":35
+  },
+  {
+    "Rk":705,
+    "Winner":"Brigham Young",
+    "WinnerPoints":52,
+    "Loser":"Fresno State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":706,
+    "Winner":"Citadel",
+    "WinnerPoints":23,
+    "Loser":"South Carolina",
+    "LoserPoints":22
+  },
+  {
+    "Rk":707,
+    "Winner":"(1) Clemson",
+    "WinnerPoints":33,
+    "Loser":"Wake Forest",
+    "LoserPoints":13
+  },
+  {
+    "Rk":708,
+    "Winner":"Colorado State",
+    "WinnerPoints":28,
+    "Loser":"New Mexico",
+    "LoserPoints":21
+  },
+  {
+    "Rk":709,
+    "Winner":"Connecticut",
+    "WinnerPoints":20,
+    "Loser":"(13) Houston",
+    "LoserPoints":17
+  },
+  {
+    "Rk":710,
+    "Winner":"(8) Florida",
+    "WinnerPoints":20,
+    "Loser":"Florida Atlantic",
+    "LoserPoints":14
+  },
+  {
+    "Rk":711,
+    "Winner":"(16) Florida State",
+    "WinnerPoints":52,
+    "Loser":"Chattanooga",
+    "LoserPoints":13
+  },
+  {
+    "Rk":712,
+    "Winner":"Georgia",
+    "WinnerPoints":23,
+    "Loser":"Georgia Southern",
+    "LoserPoints":17
+  },
+  {
+    "Rk":713,
+    "Winner":"Georgia State",
+    "WinnerPoints":24,
+    "Loser":"South Alabama",
+    "LoserPoints":10
+  },
+  {
+    "Rk":714,
+    "Winner":"Indiana",
+    "WinnerPoints":47,
+    "Loser":"Maryland",
+    "LoserPoints":28
+  },
+  {
+    "Rk":715,
+    "Winner":"(6) Iowa",
+    "WinnerPoints":40,
+    "Loser":"Purdue",
+    "LoserPoints":20
+  },
+  {
+    "Rk":716,
+    "Winner":"Kansas State",
+    "WinnerPoints":38,
+    "Loser":"Iowa State",
+    "LoserPoints":35
+  },
+  {
+    "Rk":717,
+    "Winner":"Kentucky",
+    "WinnerPoints":58,
+    "Loser":"Charlotte",
+    "LoserPoints":10
+  },
+  {
+    "Rk":718,
+    "Winner":"Louisiana Tech",
+    "WinnerPoints":17,
+    "Loser":"Texas-El Paso",
+    "LoserPoints":15
+  },
+  {
+    "Rk":719,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":38,
+    "Loser":"Georgia Tech",
+    "LoserPoints":21
+  },
+  {
+    "Rk":720,
+    "Winner":"Miami (OH)",
+    "WinnerPoints":20,
+    "Loser":"Massachusetts",
+    "LoserPoints":13
+  },
+  {
+    "Rk":721,
+    "Winner":"(14) Michigan",
+    "WinnerPoints":28,
+    "Loser":"Penn State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":722,
+    "Winner":"(9) Michigan State",
+    "WinnerPoints":17,
+    "Loser":"(2) Ohio State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":723,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":41,
+    "Loser":"North Texas",
+    "LoserPoints":7
+  },
+  {
+    "Rk":724,
+    "Winner":"Minnesota",
+    "WinnerPoints":32,
+    "Loser":"Illinois",
+    "LoserPoints":23
+  },
+  {
+    "Rk":725,
+    "Winner":"(25) Mississippi",
+    "WinnerPoints":38,
+    "Loser":"(17) Louisiana State",
+    "LoserPoints":17
+  },
+  {
+    "Rk":726,
+    "Winner":"Mississippi State",
+    "WinnerPoints":51,
+    "Loser":"Arkansas",
+    "LoserPoints":50
+  },
+  {
+    "Rk":727,
+    "Winner":"(19) Navy",
+    "WinnerPoints":44,
+    "Loser":"Tulsa",
+    "LoserPoints":21
+  },
+  {
+    "Rk":728,
+    "Winner":"New Mexico State",
+    "WinnerPoints":37,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":34
+  },
+  {
+    "Rk":729,
+    "Winner":"(12) North Carolina",
+    "WinnerPoints":30,
+    "Loser":"Virginia Tech",
+    "LoserPoints":27
+  },
+  {
+    "Rk":730,
+    "Winner":"North Carolina State",
+    "WinnerPoints":42,
+    "Loser":"Syracuse",
+    "LoserPoints":29
+  },
+  {
+    "Rk":731,
+    "Winner":"(20) Northwestern",
+    "WinnerPoints":13,
+    "Loser":"(21) Wisconsin",
+    "LoserPoints":7
+  },
+  {
+    "Rk":732,
+    "Winner":"(5) Notre Dame",
+    "WinnerPoints":19,
+    "Loser":"Boston College",
+    "LoserPoints":16
+  },
+  {
+    "Rk":733,
+    "Winner":"(7) Oklahoma",
+    "WinnerPoints":30,
+    "Loser":"(11) Texas Christian",
+    "LoserPoints":29
+  },
+  {
+    "Rk":734,
+    "Winner":"(23) Oregon",
+    "WinnerPoints":48,
+    "Loser":"(22) Southern California",
+    "LoserPoints":28
+  },
+  {
+    "Rk":735,
+    "Winner":"Pittsburgh",
+    "WinnerPoints":45,
+    "Loser":"Louisville",
+    "LoserPoints":34
+  },
+  {
+    "Rk":736,
+    "Winner":"Rutgers",
+    "WinnerPoints":31,
+    "Loser":"Army",
+    "LoserPoints":21
+  },
+  {
+    "Rk":737,
+    "Winner":"San Diego State",
+    "WinnerPoints":52,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":14
+  },
+  {
+    "Rk":738,
+    "Winner":"San Jose State",
+    "WinnerPoints":42,
+    "Loser":"Hawaii",
+    "LoserPoints":23
+  },
+  {
+    "Rk":739,
+    "Winner":"Southern Methodist",
+    "WinnerPoints":49,
+    "Loser":"Tulane",
+    "LoserPoints":21
+  },
+  {
+    "Rk":740,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":56,
+    "Loser":"Old Dominion",
+    "LoserPoints":31
+  },
+  {
+    "Rk":741,
+    "Winner":"(15) Stanford",
+    "WinnerPoints":35,
+    "Loser":"California",
+    "LoserPoints":22
+  },
+  {
+    "Rk":742,
+    "Winner":"Temple",
+    "WinnerPoints":31,
+    "Loser":"Memphis",
+    "LoserPoints":12
+  },
+  {
+    "Rk":743,
+    "Winner":"Tennessee",
+    "WinnerPoints":19,
+    "Loser":"Missouri",
+    "LoserPoints":8
+  },
+  {
+    "Rk":744,
+    "Winner":"Texas A&M",
+    "WinnerPoints":25,
+    "Loser":"Vanderbilt",
+    "LoserPoints":0
+  },
+  {
+    "Rk":745,
+    "Winner":"Texas-San Antonio",
+    "WinnerPoints":34,
+    "Loser":"Rice",
+    "LoserPoints":24
+  },
+  {
+    "Rk":746,
+    "Winner":"UCLA",
+    "WinnerPoints":17,
+    "Loser":"(18) Utah",
+    "LoserPoints":9
+  },
+  {
+    "Rk":747,
+    "Winner":"Utah State",
+    "WinnerPoints":31,
+    "Loser":"Nevada",
+    "LoserPoints":27
+  },
+  {
+    "Rk":748,
+    "Winner":"Virginia",
+    "WinnerPoints":42,
+    "Loser":"Duke",
+    "LoserPoints":34
+  },
+  {
+    "Rk":749,
+    "Winner":"Washington",
+    "WinnerPoints":52,
+    "Loser":"Oregon State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":750,
+    "Winner":"(24) Washington State",
+    "WinnerPoints":27,
+    "Loser":"Colorado",
+    "LoserPoints":3
+  },
+  {
+    "Rk":751,
+    "Winner":"West Virginia",
+    "WinnerPoints":49,
+    "Loser":"Kansas",
+    "LoserPoints":0
+  },
+  {
+    "Rk":752,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":63,
+    "Loser":"Florida International",
+    "LoserPoints":7
+  },
+  {
+    "Rk":753,
+    "Winner":"Bowling Green State",
+    "WinnerPoints":48,
+    "Loser":"Ball State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":754,
+    "Winner":"Ohio",
+    "WinnerPoints":26,
+    "Loser":"Northern Illinois",
+    "LoserPoints":21
+  },
+  {
+    "Rk":755,
+    "Winner":"Texas Tech",
+    "WinnerPoints":48,
+    "Loser":"Texas",
+    "LoserPoints":45
+  },
+  {
+    "Rk":756,
+    "Winner":"Akron",
+    "WinnerPoints":20,
+    "Loser":"Kent State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":757,
+    "Winner":"Arkansas",
+    "WinnerPoints":28,
+    "Loser":"Missouri",
+    "LoserPoints":3
+  },
+  {
+    "Rk":758,
+    "Winner":"Boise State",
+    "WinnerPoints":40,
+    "Loser":"San Jose State",
+    "LoserPoints":23
+  },
+  {
+    "Rk":759,
+    "Winner":"Central Michigan",
+    "WinnerPoints":35,
+    "Loser":"Eastern Michigan",
+    "LoserPoints":28
+  },
+  {
+    "Rk":760,
+    "Winner":"Georgia State",
+    "WinnerPoints":31,
+    "Loser":"Troy",
+    "LoserPoints":21
+  },
+  {
+    "Rk":761,
+    "Winner":"(21) Houston",
+    "WinnerPoints":52,
+    "Loser":"(16) Navy",
+    "LoserPoints":31
+  },
+  {
+    "Rk":762,
+    "Winner":"(3) Iowa",
+    "WinnerPoints":28,
+    "Loser":"Nebraska",
+    "LoserPoints":20
+  },
+  {
+    "Rk":763,
+    "Winner":"Massachusetts",
+    "WinnerPoints":31,
+    "Loser":"Buffalo",
+    "LoserPoints":26
+  },
+  {
+    "Rk":764,
+    "Winner":"Miami (FL)",
+    "WinnerPoints":29,
+    "Loser":"Pittsburgh",
+    "LoserPoints":24
+  },
+  {
+    "Rk":765,
+    "Winner":"(18) Oregon",
+    "WinnerPoints":52,
+    "Loser":"Oregon State",
+    "LoserPoints":42
+  },
+  {
+    "Rk":766,
+    "Winner":"South Florida",
+    "WinnerPoints":44,
+    "Loser":"Central Florida",
+    "LoserPoints":3
+  },
+  {
+    "Rk":767,
+    "Winner":"(15) Texas Christian",
+    "WinnerPoints":28,
+    "Loser":"(7) Baylor",
+    "LoserPoints":21
+  },
+  {
+    "Rk":768,
+    "Winner":"Tulsa",
+    "WinnerPoints":45,
+    "Loser":"Tulane",
+    "LoserPoints":34
+  },
+  {
+    "Rk":769,
+    "Winner":"Washington",
+    "WinnerPoints":45,
+    "Loser":"(20) Washington State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":770,
+    "Winner":"Western Kentucky",
+    "WinnerPoints":49,
+    "Loser":"Marshall",
+    "LoserPoints":28
+  },
+  {
+    "Rk":771,
+    "Winner":"Western Michigan",
+    "WinnerPoints":35,
+    "Loser":"(24) Toledo",
+    "LoserPoints":30
+  },
+  {
+    "Rk":772,
+    "Winner":"(2) Alabama",
+    "WinnerPoints":29,
+    "Loser":"Auburn",
+    "LoserPoints":13
+  },
+  {
+    "Rk":773,
+    "Winner":"Appalachian State",
+    "WinnerPoints":28,
+    "Loser":"Louisiana-Lafayette",
+    "LoserPoints":7
+  },
+  {
+    "Rk":774,
+    "Winner":"Arkansas State",
+    "WinnerPoints":52,
+    "Loser":"New Mexico State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":775,
+    "Winner":"Brigham Young",
+    "WinnerPoints":51,
+    "Loser":"Utah State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":776,
+    "Winner":"California",
+    "WinnerPoints":48,
+    "Loser":"Arizona State",
+    "LoserPoints":46
+  },
+  {
+    "Rk":777,
+    "Winner":"Cincinnati",
+    "WinnerPoints":19,
+    "Loser":"East Carolina",
+    "LoserPoints":16
+  },
+  {
+    "Rk":778,
+    "Winner":"(1) Clemson",
+    "WinnerPoints":37,
+    "Loser":"South Carolina",
+    "LoserPoints":32
+  },
+  {
+    "Rk":779,
+    "Winner":"Colorado State",
+    "WinnerPoints":34,
+    "Loser":"Fresno State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":780,
+    "Winner":"Duke",
+    "WinnerPoints":27,
+    "Loser":"Wake Forest",
+    "LoserPoints":21
+  },
+  {
+    "Rk":781,
+    "Winner":"Florida Atlantic",
+    "WinnerPoints":33,
+    "Loser":"Old Dominion",
+    "LoserPoints":31
+  },
+  {
+    "Rk":782,
+    "Winner":"(14) Florida State",
+    "WinnerPoints":27,
+    "Loser":"(10) Florida",
+    "LoserPoints":2
+  },
+  {
+    "Rk":783,
+    "Winner":"Georgia",
+    "WinnerPoints":13,
+    "Loser":"Georgia Tech",
+    "LoserPoints":7
+  },
+  {
+    "Rk":784,
+    "Winner":"Georgia Southern",
+    "WinnerPoints":55,
+    "Loser":"South Alabama",
+    "LoserPoints":17
+  },
+  {
+    "Rk":785,
+    "Winner":"Hawaii",
+    "WinnerPoints":28,
+    "Loser":"Louisiana-Monroe",
+    "LoserPoints":26
+  },
+  {
+    "Rk":786,
+    "Winner":"Idaho",
+    "WinnerPoints":38,
+    "Loser":"Texas State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":787,
+    "Winner":"Indiana",
+    "WinnerPoints":54,
+    "Loser":"Purdue",
+    "LoserPoints":36
+  },
+  {
+    "Rk":788,
+    "Winner":"Kansas State",
+    "WinnerPoints":45,
+    "Loser":"Kansas",
+    "LoserPoints":14
+  },
+  {
+    "Rk":789,
+    "Winner":"Louisiana State",
+    "WinnerPoints":19,
+    "Loser":"Texas A&M",
+    "LoserPoints":7
+  },
+  {
+    "Rk":790,
+    "Winner":"Louisville",
+    "WinnerPoints":38,
+    "Loser":"Kentucky",
+    "LoserPoints":24
+  },
+  {
+    "Rk":791,
+    "Winner":"Maryland",
+    "WinnerPoints":46,
+    "Loser":"Rutgers",
+    "LoserPoints":41
+  },
+  {
+    "Rk":792,
+    "Winner":"Memphis",
+    "WinnerPoints":63,
+    "Loser":"Southern Methodist",
+    "LoserPoints":0
+  },
+  {
+    "Rk":793,
+    "Winner":"(6) Michigan State",
+    "WinnerPoints":55,
+    "Loser":"Penn State",
+    "LoserPoints":16
+  },
+  {
+    "Rk":794,
+    "Winner":"Middle Tennessee State",
+    "WinnerPoints":42,
+    "Loser":"Texas-San Antonio",
+    "LoserPoints":7
+  },
+  {
+    "Rk":795,
+    "Winner":"(19) Mississippi",
+    "WinnerPoints":38,
+    "Loser":"(23) Mississippi State",
+    "LoserPoints":27
+  },
+  {
+    "Rk":796,
+    "Winner":"New Mexico",
+    "WinnerPoints":47,
+    "Loser":"Air Force",
+    "LoserPoints":35
+  },
+  {
+    "Rk":797,
+    "Winner":"(11) North Carolina",
+    "WinnerPoints":45,
+    "Loser":"North Carolina State",
+    "LoserPoints":34
+  },
+  {
+    "Rk":798,
+    "Winner":"(17) Northwestern",
+    "WinnerPoints":24,
+    "Loser":"Illinois",
+    "LoserPoints":14
+  },
+  {
+    "Rk":799,
+    "Winner":"(8) Ohio State",
+    "WinnerPoints":42,
+    "Loser":"(12) Michigan",
+    "LoserPoints":13
+  },
+  {
+    "Rk":800,
+    "Winner":"(5) Oklahoma",
+    "WinnerPoints":58,
+    "Loser":"(9) Oklahoma State",
+    "LoserPoints":23
+  },
+  {
+    "Rk":801,
+    "Winner":"Rice",
+    "WinnerPoints":27,
+    "Loser":"Charlotte",
+    "LoserPoints":7
+  },
+  {
+    "Rk":802,
+    "Winner":"San Diego State",
+    "WinnerPoints":31,
+    "Loser":"Nevada",
+    "LoserPoints":14
+  },
+  {
+    "Rk":803,
+    "Winner":"Southern California",
+    "WinnerPoints":40,
+    "Loser":"(22) UCLA",
+    "LoserPoints":21
+  },
+  {
+    "Rk":804,
+    "Winner":"Southern Mississippi",
+    "WinnerPoints":58,
+    "Loser":"Louisiana Tech",
+    "LoserPoints":24
+  },
+  {
+    "Rk":805,
+    "Winner":"(13) Stanford",
+    "WinnerPoints":38,
+    "Loser":"(4) Notre Dame",
+    "LoserPoints":36
+  },
+  {
+    "Rk":806,
+    "Winner":"Syracuse",
+    "WinnerPoints":20,
+    "Loser":"Boston College",
+    "LoserPoints":17
+  },
+  {
+    "Rk":807,
+    "Winner":"(25) Temple",
+    "WinnerPoints":27,
+    "Loser":"Connecticut",
+    "LoserPoints":3
+  },
+  {
+    "Rk":808,
+    "Winner":"Tennessee",
+    "WinnerPoints":53,
+    "Loser":"Vanderbilt",
+    "LoserPoints":28
+  },
+  {
+    "Rk":809,
+    "Winner":"Texas-El Paso",
+    "WinnerPoints":20,
+    "Loser":"North Texas",
+    "LoserPoints":17
+  },
+  {
+    "Rk":810,
+    "Winner":"Utah",
+    "WinnerPoints":20,
+    "Loser":"Colorado",
+    "LoserPoints":14
+  },
+  {
+    "Rk":811,
+    "Winner":"Virginia Tech",
+    "WinnerPoints":23,
+    "Loser":"Virginia",
+    "LoserPoints":20
+  },
+  {
+    "Rk":812,
+    "Winner":"West Virginia",
+    "WinnerPoints":30,
+    "Loser":"Iowa State",
+    "LoserPoints":6
+  },
+  {
+    "Rk":813,
+    "Winner":"Wisconsin",
+    "WinnerPoints":31,
+    "Loser":"Minnesota",
+    "LoserPoints":21
+  },
+  {
+    "Rk":814,
+    "Winner":"Wyoming",
+    "WinnerPoints":35,
+    "Loser":"Nevada-Las Vegas",
+    "LoserPoints":28
+  }
+]
