@@ -1,6 +1,6 @@
 import json
 
-GAMES_FILENAME = "games.json"
+GAMES_FILENAME = "pac12.json"
 K = 32
 
 
@@ -45,10 +45,11 @@ class Player(object):
             self.worse_than.append(game.winner)
             
     def __repr__(self):
-        return "[%s, bt %s, wt %s]" % (
+        return "[%s, bt %s, wt %s, elo: %s]" % (
             self.name,
             len(self.better_than),
-            len(self.worse_than)
+            len(self.worse_than),
+            self.rating
         )
             
             

@@ -1,0 +1,387 @@
+[
+  {
+    "Rk":1,
+    "Winner":"Stanford",
+    "WinnerPoints":41,
+    "Loser":"(6) Southern California",
+    "LoserPoints":31
+  },
+  {
+    "Rk":2,
+    "Winner":"(21) Stanford",
+    "WinnerPoints":42,
+    "Loser":"Oregon State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":3,
+    "Winner":"California",
+    "WinnerPoints":30,
+    "Loser":"Washington",
+    "LoserPoints":24
+  },
+  {
+    "Rk":4,
+    "Winner":"(19) Southern California",
+    "WinnerPoints":42,
+    "Loser":"Arizona State",
+    "LoserPoints":14
+  },
+  {
+    "Rk":5,
+    "Winner":"(9) UCLA",
+    "WinnerPoints":56,
+    "Loser":"(16) Arizona",
+    "LoserPoints":30
+  },
+  {
+    "Rk":6,
+    "Winner":"(18) Utah",
+    "WinnerPoints":62,
+    "Loser":"(13) Oregon",
+    "LoserPoints":20
+  },
+  {
+    "Rk":7,
+    "Winner":"Arizona State",
+    "WinnerPoints":38,
+    "Loser":"(7) UCLA",
+    "LoserPoints":23
+  },
+  {
+    "Rk":8,
+    "Winner":"(24) California",
+    "WinnerPoints":34,
+    "Loser":"Washington State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":9,
+    "Winner":"Oregon",
+    "WinnerPoints":41,
+    "Loser":"Colorado",
+    "LoserPoints":24
+  },
+  {
+    "Rk":10,
+    "Winner":"(18) Stanford",
+    "WinnerPoints":55,
+    "Loser":"Arizona",
+    "LoserPoints":17
+  },
+  {
+    "Rk":11,
+    "Winner":"Washington",
+    "WinnerPoints":17,
+    "Loser":"(17) Southern California",
+    "LoserPoints":12
+  },
+  {
+    "Rk":12,
+    "Winner":"Arizona",
+    "WinnerPoints":44,
+    "Loser":"Oregon State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":13,
+    "Winner":"Arizona State",
+    "WinnerPoints":48,
+    "Loser":"Colorado",
+    "LoserPoints":23
+  },
+  {
+    "Rk":14,
+    "Winner":"(5) Utah",
+    "WinnerPoints":30,
+    "Loser":"(23) California",
+    "LoserPoints":24
+  },
+  {
+    "Rk":15,
+    "Winner":"Washington State",
+    "WinnerPoints":45,
+    "Loser":"Oregon",
+    "LoserPoints":38
+  },
+  {
+    "Rk":16,
+    "Winner":"(15) Stanford",
+    "WinnerPoints":56,
+    "Loser":"(18) UCLA",
+    "LoserPoints":35
+  },
+  {
+    "Rk":17,
+    "Winner":"Arizona",
+    "WinnerPoints":38,
+    "Loser":"Colorado",
+    "LoserPoints":31
+  },
+  {
+    "Rk":18,
+    "Winner":"Oregon",
+    "WinnerPoints":26,
+    "Loser":"Washington",
+    "LoserPoints":20
+  },
+  {
+    "Rk":19,
+    "Winner":"(4) Utah",
+    "WinnerPoints":34,
+    "Loser":"Arizona State",
+    "LoserPoints":18
+  },
+  {
+    "Rk":20,
+    "Winner":"Washington State",
+    "WinnerPoints":52,
+    "Loser":"Oregon State",
+    "LoserPoints":31
+  },
+  {
+    "Rk":21,
+    "Winner":"UCLA",
+    "WinnerPoints":40,
+    "Loser":"(20) California",
+    "LoserPoints":24
+  },
+  {
+    "Rk":22,
+    "Winner":"Colorado",
+    "WinnerPoints":17,
+    "Loser":"Oregon State",
+    "LoserPoints":13
+  },
+  {
+    "Rk":23,
+    "Winner":"Southern California",
+    "WinnerPoints":42,
+    "Loser":"(3) Utah",
+    "LoserPoints":24
+  },
+  {
+    "Rk":24,
+    "Winner":"(10) Stanford",
+    "WinnerPoints":31,
+    "Loser":"Washington",
+    "LoserPoints":14
+  },
+  {
+    "Rk":25,
+    "Winner":"Washington State",
+    "WinnerPoints":45,
+    "Loser":"Arizona",
+    "LoserPoints":42
+  },
+  {
+    "Rk":26,
+    "Winner":"Oregon",
+    "WinnerPoints":61,
+    "Loser":"Arizona State",
+    "LoserPoints":55
+  },
+  {
+    "Rk":27,
+    "Winner":"Southern California",
+    "WinnerPoints":27,
+    "Loser":"California",
+    "LoserPoints":21
+  },
+  {
+    "Rk":28,
+    "Winner":"(8) Stanford",
+    "WinnerPoints":30,
+    "Loser":"Washington State",
+    "LoserPoints":28
+  },
+  {
+    "Rk":29,
+    "Winner":"(24) UCLA",
+    "WinnerPoints":35,
+    "Loser":"Colorado",
+    "LoserPoints":31
+  },
+  {
+    "Rk":30,
+    "Winner":"(13) Utah",
+    "WinnerPoints":27,
+    "Loser":"Oregon State",
+    "LoserPoints":12
+  },
+  {
+    "Rk":31,
+    "Winner":"Washington",
+    "WinnerPoints":49,
+    "Loser":"Arizona",
+    "LoserPoints":3
+  },
+  {
+    "Rk":32,
+    "Winner":"Oregon",
+    "WinnerPoints":44,
+    "Loser":"California",
+    "LoserPoints":28
+  },
+  {
+    "Rk":33,
+    "Winner":"Southern California",
+    "WinnerPoints":38,
+    "Loser":"Arizona",
+    "LoserPoints":30
+  },
+  {
+    "Rk":34,
+    "Winner":"(9) Stanford",
+    "WinnerPoints":42,
+    "Loser":"Colorado",
+    "LoserPoints":10
+  },
+  {
+    "Rk":35,
+    "Winner":"(22) UCLA",
+    "WinnerPoints":41,
+    "Loser":"Oregon State",
+    "LoserPoints":0
+  },
+  {
+    "Rk":36,
+    "Winner":"(13) Utah",
+    "WinnerPoints":34,
+    "Loser":"Washington",
+    "LoserPoints":23
+  },
+  {
+    "Rk":37,
+    "Winner":"Washington State",
+    "WinnerPoints":38,
+    "Loser":"Arizona State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":38,
+    "Winner":"Southern California",
+    "WinnerPoints":27,
+    "Loser":"Colorado",
+    "LoserPoints":24
+  },
+  {
+    "Rk":39,
+    "Winner":"Arizona",
+    "WinnerPoints":37,
+    "Loser":"(10) Utah",
+    "LoserPoints":30
+  },
+  {
+    "Rk":40,
+    "Winner":"Arizona State",
+    "WinnerPoints":27,
+    "Loser":"Washington",
+    "LoserPoints":17
+  },
+  {
+    "Rk":41,
+    "Winner":"California",
+    "WinnerPoints":54,
+    "Loser":"Oregon State",
+    "LoserPoints":24
+  },
+  {
+    "Rk":42,
+    "Winner":"Oregon",
+    "WinnerPoints":38,
+    "Loser":"(7) Stanford",
+    "LoserPoints":36
+  },
+  {
+    "Rk":43,
+    "Winner":"Washington State",
+    "WinnerPoints":31,
+    "Loser":"(18) UCLA",
+    "LoserPoints":27
+  },
+  {
+    "Rk":44,
+    "Winner":"Arizona State",
+    "WinnerPoints":52,
+    "Loser":"Arizona",
+    "LoserPoints":37
+  },
+  {
+    "Rk":45,
+    "Winner":"(23) Oregon",
+    "WinnerPoints":48,
+    "Loser":"(22) Southern California",
+    "LoserPoints":28
+  },
+  {
+    "Rk":46,
+    "Winner":"(15) Stanford",
+    "WinnerPoints":35,
+    "Loser":"California",
+    "LoserPoints":22
+  },
+  {
+    "Rk":47,
+    "Winner":"UCLA",
+    "WinnerPoints":17,
+    "Loser":"(18) Utah",
+    "LoserPoints":9
+  },
+  {
+    "Rk":48,
+    "Winner":"Washington",
+    "WinnerPoints":52,
+    "Loser":"Oregon State",
+    "LoserPoints":7
+  },
+  {
+    "Rk":49,
+    "Winner":"(24) Washington State",
+    "WinnerPoints":27,
+    "Loser":"Colorado",
+    "LoserPoints":3
+  },
+  {
+    "Rk":50,
+    "Winner":"(18) Oregon",
+    "WinnerPoints":52,
+    "Loser":"Oregon State",
+    "LoserPoints":42
+  },
+  {
+    "Rk":51,
+    "Winner":"Washington",
+    "WinnerPoints":45,
+    "Loser":"(20) Washington State",
+    "LoserPoints":10
+  },
+  {
+    "Rk":52,
+    "Winner":"California",
+    "WinnerPoints":48,
+    "Loser":"Arizona State",
+    "LoserPoints":46
+  },
+  {
+    "Rk":53,
+    "Winner":"Southern California",
+    "WinnerPoints":40,
+    "Loser":"(22) UCLA",
+    "LoserPoints":21
+  },
+  {
+    "Rk":54,
+    "Winner":"Utah",
+    "WinnerPoints":20,
+    "Loser":"Colorado",
+    "LoserPoints":14
+  },
+  {
+    "Rk":55,
+    "Winner":"(13) Stanford",
+    "WinnerPoints":41,
+    "Loser":"Southern California",
+    "LoserPoints":22
+  }
+]
